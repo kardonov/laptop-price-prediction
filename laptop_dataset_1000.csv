@@ -1,0 +1,1001 @@
+Manufacturer,Model Name,Category,Screen Size,Screen,CPU,RAM,Storage,GPU,Operating System,Operating System Version,Weight,Price
+MSI,MSI_535,Workstation,"13.8""",Retina,AMD Ryzen 5,4GB,256GB SSD,NVIDIA RTX 3050,Linux,Linux 11,2.15,1322.95
+Lenovo,Lenovo_761,Workstation,"17.2""",Retina,AMD Ryzen 7,8GB,256GB SSD,NVIDIA RTX 4060,Windows,Windows 1,1.76,1417.56
+Acer,Acer_352,Student,"13.1""",OLED,Intel i7,16GB,256GB SSD,NVIDIA RTX 4060,Linux,Linux 3,1.96,695.11
+Asus,Asus_918,Workstation,"14.9""",LED,Intel i9,4GB,1TB SSD,NVIDIA GTX 1650,macOS,macOS 9,1.04,1571.11
+HP,HP_439,Student,"14.9""",OLED,Intel i9,4GB,512GB SSD,Integrated,macOS,macOS 8,2.89,424.41
+Apple,Apple_921,Workstation,"17.2""",LED,Intel i9,8GB,256GB SSD,NVIDIA RTX 4060,macOS,macOS 8,2.43,1429.38
+Apple,Apple_801,Workstation,"14.7""",LED,AMD Ryzen 5,32GB,256GB SSD,Integrated,Windows,Windows 9,1.74,1124.86
+Samsung,Samsung_571,Ultrabook,"13.9""",Retina,Intel i7,16GB,128GB SSD,NVIDIA RTX 3050,Windows,Windows 10,1.9,826.64
+Dell,Dell_127,Gaming,"15.7""",LED,Intel i3,32GB,1TB HDD,NVIDIA RTX 3050,macOS,macOS 11,2.4,1265.37
+Lenovo,Lenovo_868,Workstation,"15.4""",OLED,AMD Ryzen 7,16GB,512GB SSD,Integrated,Linux,Linux 10,1.06,1483.78
+Asus,Asus_790,Gaming,"14.4""",Retina,Intel i9,8GB,1TB HDD,AMD Radeon,Linux,Linux 11,1.51,1227.15
+Lenovo,Lenovo_185,Student,"17.0""",IPS,AMD Ryzen 7,4GB,1TB HDD,NVIDIA RTX 4060,macOS,macOS 11,1.81,821.62
+MSI,MSI_447,Gaming,"14.4""",IPS,Intel i3,4GB,512GB SSD,Integrated,Windows,Windows 9,1.76,1225.4
+Acer,Acer_776,Gaming,"13.5""",Retina,Intel i7,8GB,128GB SSD,NVIDIA RTX 4060,Windows,Windows 1,1.63,950.11
+Apple,Apple_609,Business,"16.1""",IPS,Intel i3,32GB,128GB SSD,NVIDIA RTX 3050,Windows,Windows 2,2.26,861.53
+HP,HP_152,Student,"14.9""",LED,Intel i9,16GB,512GB SSD,NVIDIA RTX 3050,Windows,Windows 6,1.92,760.31
+Apple,Apple_709,Ultrabook,"16.5""",Retina,Intel i3,4GB,1TB SSD,NVIDIA RTX 3050,macOS,macOS 3,2.48,789.87
+Samsung,Samsung_810,Student,"17.0""",Retina,Intel i5,32GB,128GB SSD,NVIDIA RTX 3050,Windows,Windows 9,1.52,713.71
+MSI,MSI_397,Ultrabook,"14.0""",Retina,Intel i5,32GB,128GB SSD,NVIDIA RTX 4060,Windows,Windows 2,3.49,1112.56
+Samsung,Samsung_108,Gaming,"14.5""",Retina,Intel i7,32GB,128GB SSD,NVIDIA RTX 4060,Linux,Linux 1,1.4,1300.32
+Acer,Acer_203,Student,"15.5""",Retina,AMD Ryzen 7,4GB,512GB SSD,Integrated,Windows,Windows 2,1.4,1073.15
+Samsung,Samsung_780,Student,"16.1""",IPS,AMD Ryzen 7,4GB,1TB SSD,NVIDIA RTX 3050,Windows,Windows 1,2.36,794.77
+Lenovo,Lenovo_982,Workstation,"15.1""",Retina,Intel i7,16GB,256GB SSD,AMD Radeon,macOS,macOS 1,2.44,1218.72
+Asus,Asus_915,Ultrabook,"15.5""",Retina,Intel i3,32GB,128GB SSD,NVIDIA RTX 4060,macOS,macOS 5,3.21,1093.09
+Apple,Apple_844,Workstation,"17.0""",IPS,AMD Ryzen 7,4GB,512GB SSD,NVIDIA RTX 4060,Windows,Windows 4,1.74,1709.11
+Samsung,Samsung_422,Business,"15.4""",OLED,AMD Ryzen 7,8GB,512GB SSD,NVIDIA GTX 1650,Linux,Linux 6,1.9,831.57
+MSI,MSI_254,Business,"16.8""",IPS,Intel i3,4GB,512GB SSD,AMD Radeon,macOS,macOS 7,2.05,1031.36
+Apple,Apple_605,Gaming,"15.7""",Retina,Intel i3,32GB,1TB SSD,NVIDIA RTX 3050,Linux,Linux 12,2.45,912.82
+Samsung,Samsung_826,Ultrabook,"15.0""",OLED,AMD Ryzen 7,4GB,256GB SSD,NVIDIA GTX 1650,macOS,macOS 1,1.09,1005.61
+Apple,Apple_712,Gaming,"16.6""",Retina,Intel i9,32GB,1TB HDD,NVIDIA RTX 4060,macOS,macOS 4,2.03,1417.79
+Lenovo,Lenovo_922,Student,"13.6""",LED,Intel i9,8GB,512GB SSD,Integrated,Linux,Linux 3,2.1,545.64
+HP,HP_733,Gaming,"14.9""",Retina,AMD Ryzen 7,8GB,128GB SSD,AMD Radeon,Windows,Windows 1,3.39,1532.26
+MSI,MSI_803,Workstation,"15.6""",OLED,Intel i7,32GB,256GB SSD,NVIDIA RTX 3050,Windows,Windows 6,1.04,1452.52
+HP,HP_573,Workstation,"15.0""",IPS,AMD Ryzen 7,8GB,1TB HDD,NVIDIA GTX 1650,macOS,macOS 6,2.59,1874.4
+HP,HP_279,Business,"15.7""",LED,Intel i3,32GB,1TB HDD,AMD Radeon,Linux,Linux 2,1.07,1029.43
+Samsung,Samsung_789,Ultrabook,"15.8""",IPS,AMD Ryzen 5,16GB,512GB SSD,AMD Radeon,Linux,Linux 1,3.4,1125.22
+HP,HP_142,Student,"14.2""",Retina,AMD Ryzen 7,8GB,1TB HDD,NVIDIA RTX 3050,macOS,macOS 3,1.84,468.9
+HP,HP_701,Business,"14.1""",OLED,Intel i9,8GB,1TB HDD,NVIDIA GTX 1650,Windows,Windows 11,3.19,1214.02
+Apple,Apple_828,Workstation,"17.2""",Retina,Intel i5,4GB,128GB SSD,NVIDIA RTX 3050,Windows,Windows 3,2.03,1755.53
+Samsung,Samsung_762,Workstation,"14.0""",OLED,AMD Ryzen 5,16GB,128GB SSD,NVIDIA RTX 3050,Windows,Windows 1,2.34,1381.69
+Apple,Apple_979,Gaming,"14.4""",OLED,Intel i7,4GB,1TB SSD,NVIDIA RTX 4060,Windows,Windows 9,3.12,1278.41
+MSI,MSI_483,Student,"15.5""",OLED,AMD Ryzen 5,4GB,512GB SSD,NVIDIA RTX 4060,Windows,Windows 4,2.68,675.09
+Apple,Apple_664,Gaming,"13.5""",IPS,Intel i5,8GB,256GB SSD,AMD Radeon,Linux,Linux 7,2.36,1377.8
+Dell,Dell_352,Workstation,"14.0""",IPS,Intel i5,16GB,256GB SSD,NVIDIA GTX 1650,Windows,Windows 5,1.58,1599.21
+Samsung,Samsung_595,Workstation,"14.6""",Retina,Intel i3,16GB,128GB SSD,AMD Radeon,macOS,macOS 12,1.21,1562.18
+Lenovo,Lenovo_813,Business,"14.4""",LED,Intel i7,4GB,1TB HDD,NVIDIA GTX 1650,macOS,macOS 10,2.85,1195.07
+Samsung,Samsung_928,Gaming,"16.2""",OLED,AMD Ryzen 5,32GB,128GB SSD,NVIDIA RTX 4060,Windows,Windows 9,3.17,1244.82
+Asus,Asus_775,Ultrabook,"16.0""",IPS,Intel i5,16GB,128GB SSD,Integrated,macOS,macOS 1,2.57,1102.52
+Acer,Acer_358,Gaming,"16.9""",LED,AMD Ryzen 7,32GB,1TB SSD,AMD Radeon,macOS,macOS 12,2.62,929.51
+Apple,Apple_831,Workstation,"17.2""",Retina,Intel i7,8GB,128GB SSD,Integrated,Windows,Windows 5,3.03,1388.32
+Apple,Apple_851,Workstation,"13.6""",OLED,AMD Ryzen 5,8GB,256GB SSD,NVIDIA RTX 3050,Windows,Windows 9,2.05,1735.89
+Samsung,Samsung_338,Gaming,"14.6""",LED,Intel i3,8GB,512GB SSD,NVIDIA RTX 3050,Windows,Windows 1,2.17,1106.16
+Lenovo,Lenovo_610,Gaming,"13.1""",OLED,AMD Ryzen 7,32GB,128GB SSD,AMD Radeon,Linux,Linux 5,3.49,1503.25
+Asus,Asus_813,Business,"14.6""",IPS,AMD Ryzen 7,4GB,128GB SSD,NVIDIA RTX 3050,Windows,Windows 4,1.57,962.49
+Dell,Dell_587,Business,"14.5""",Retina,Intel i5,8GB,256GB SSD,NVIDIA RTX 3050,Linux,Linux 2,3.13,1312.15
+Acer,Acer_862,Gaming,"15.5""",OLED,AMD Ryzen 5,4GB,256GB SSD,NVIDIA RTX 3050,Linux,Linux 7,1.34,1551.07
+Apple,Apple_837,Business,"15.5""",LED,Intel i7,16GB,256GB SSD,NVIDIA RTX 4060,Windows,Windows 6,2.13,847.35
+HP,HP_662,Gaming,"17.1""",Retina,Intel i5,32GB,128GB SSD,NVIDIA GTX 1650,Windows,Windows 12,1.17,1306.96
+Asus,Asus_645,Workstation,"14.5""",LED,Intel i7,16GB,512GB SSD,NVIDIA RTX 3050,Linux,Linux 9,2.15,1147.17
+Samsung,Samsung_619,Student,"13.8""",Retina,Intel i3,16GB,512GB SSD,NVIDIA RTX 3050,Windows,Windows 2,2.5,999.98
+Lenovo,Lenovo_502,Workstation,"13.7""",Retina,Intel i5,4GB,1TB HDD,Integrated,Windows,Windows 9,1.89,1256.3
+HP,HP_348,Gaming,"16.0""",Retina,AMD Ryzen 7,16GB,1TB HDD,Integrated,macOS,macOS 4,3.02,967.93
+Dell,Dell_966,Workstation,"17.2""",OLED,AMD Ryzen 7,8GB,256GB SSD,NVIDIA RTX 4060,Linux,Linux 8,2.8,1580.04
+MSI,MSI_849,Ultrabook,"15.3""",IPS,Intel i5,8GB,512GB SSD,NVIDIA RTX 3050,Linux,Linux 9,2.84,943.1
+Apple,Apple_813,Gaming,"16.6""",LED,Intel i5,8GB,1TB SSD,Integrated,Windows,Windows 4,2.18,1468.62
+HP,HP_210,Student,"15.3""",LED,Intel i3,32GB,512GB SSD,NVIDIA GTX 1650,Windows,Windows 5,1.91,438.47
+HP,HP_419,Business,"14.1""",OLED,AMD Ryzen 5,8GB,1TB HDD,Integrated,Windows,Windows 5,1.25,808.38
+Apple,Apple_449,Ultrabook,"13.4""",LED,Intel i3,16GB,512GB SSD,NVIDIA RTX 3050,Linux,Linux 8,2.74,974.8
+Samsung,Samsung_322,Business,"15.5""",OLED,Intel i9,16GB,128GB SSD,NVIDIA RTX 3050,macOS,macOS 9,2.8,550.77
+Asus,Asus_399,Workstation,"13.8""",LED,Intel i9,16GB,1TB SSD,Integrated,Windows,Windows 12,1.29,2023.34
+HP,HP_753,Workstation,"15.2""",OLED,Intel i9,4GB,512GB SSD,NVIDIA RTX 3050,Windows,Windows 6,1.84,1379.61
+Asus,Asus_428,Gaming,"13.5""",OLED,AMD Ryzen 7,16GB,512GB SSD,Integrated,Windows,Windows 12,3.41,1352.05
+Acer,Acer_984,Ultrabook,"17.0""",Retina,Intel i7,16GB,128GB SSD,NVIDIA RTX 4060,Windows,Windows 8,3.07,1252.57
+Lenovo,Lenovo_824,Workstation,"16.5""",OLED,AMD Ryzen 7,8GB,1TB SSD,Integrated,Windows,Windows 10,1.98,1627.59
+Samsung,Samsung_939,Ultrabook,"15.7""",IPS,Intel i3,4GB,128GB SSD,Integrated,Linux,Linux 7,2.33,642.19
+Lenovo,Lenovo_490,Ultrabook,"14.4""",Retina,Intel i9,16GB,1TB HDD,Integrated,macOS,macOS 7,2.43,1386.5
+Asus,Asus_649,Gaming,"14.3""",IPS,Intel i7,16GB,128GB SSD,NVIDIA RTX 4060,macOS,macOS 2,2.91,1130.49
+Acer,Acer_258,Student,"15.0""",Retina,AMD Ryzen 5,32GB,1TB HDD,AMD Radeon,Linux,Linux 4,2.81,865.83
+HP,HP_510,Ultrabook,"16.0""",Retina,Intel i5,16GB,512GB SSD,AMD Radeon,Linux,Linux 10,1.86,1018.61
+HP,HP_401,Ultrabook,"13.7""",IPS,AMD Ryzen 7,8GB,128GB SSD,Integrated,Linux,Linux 8,3.18,809.56
+Apple,Apple_455,Student,"16.4""",IPS,Intel i5,4GB,1TB SSD,NVIDIA GTX 1650,Windows,Windows 6,1.19,574.52
+Apple,Apple_281,Gaming,"14.4""",LED,Intel i7,32GB,1TB HDD,Integrated,Windows,Windows 9,1.51,1100.92
+Dell,Dell_216,Business,"14.4""",OLED,Intel i9,4GB,256GB SSD,NVIDIA RTX 3050,macOS,macOS 2,2.16,1068.11
+Samsung,Samsung_975,Ultrabook,"13.6""",Retina,Intel i3,16GB,1TB SSD,AMD Radeon,Windows,Windows 1,2.95,1092.3
+Lenovo,Lenovo_761,Business,"13.1""",IPS,Intel i3,16GB,128GB SSD,NVIDIA RTX 4060,Windows,Windows 1,2.39,921.97
+Samsung,Samsung_660,Gaming,"14.3""",LED,Intel i7,16GB,512GB SSD,AMD Radeon,Windows,Windows 8,2.47,1425.93
+Dell,Dell_689,Ultrabook,"14.9""",LED,AMD Ryzen 7,32GB,128GB SSD,NVIDIA GTX 1650,macOS,macOS 6,2.91,1040.27
+MSI,MSI_970,Ultrabook,"14.6""",LED,Intel i7,8GB,256GB SSD,NVIDIA RTX 4060,Windows,Windows 7,3.45,956.84
+Samsung,Samsung_277,Workstation,"14.8""",IPS,Intel i7,32GB,512GB SSD,AMD Radeon,macOS,macOS 9,3.0,1600.1
+MSI,MSI_363,Business,"16.5""",Retina,AMD Ryzen 7,32GB,512GB SSD,NVIDIA RTX 4060,Windows,Windows 6,1.51,689.35
+MSI,MSI_922,Business,"13.1""",OLED,Intel i3,16GB,1TB HDD,NVIDIA RTX 3050,Windows,Windows 3,2.46,1084.81
+MSI,MSI_808,Student,"14.4""",OLED,Intel i5,16GB,1TB SSD,NVIDIA RTX 4060,Windows,Windows 5,2.02,663.02
+Acer,Acer_325,Workstation,"14.3""",Retina,Intel i5,8GB,1TB SSD,Integrated,macOS,macOS 8,3.46,1233.14
+HP,HP_214,Gaming,"14.2""",Retina,Intel i5,4GB,128GB SSD,Integrated,macOS,macOS 6,3.09,1175.71
+Apple,Apple_765,Business,"16.9""",LED,AMD Ryzen 5,16GB,256GB SSD,AMD Radeon,macOS,macOS 4,2.25,870.26
+Acer,Acer_477,Student,"13.9""",LED,AMD Ryzen 7,4GB,512GB SSD,Integrated,Linux,Linux 6,2.83,564.15
+HP,HP_367,Workstation,"15.9""",OLED,Intel i5,4GB,128GB SSD,NVIDIA GTX 1650,Windows,Windows 12,2.93,1129.04
+Acer,Acer_462,Gaming,"13.4""",Retina,Intel i7,8GB,1TB HDD,AMD Radeon,Linux,Linux 8,2.09,1002.08
+Apple,Apple_212,Ultrabook,"14.3""",OLED,AMD Ryzen 7,8GB,1TB HDD,Integrated,macOS,macOS 4,2.35,1156.71
+Dell,Dell_606,Workstation,"13.7""",IPS,Intel i5,8GB,1TB HDD,Integrated,Windows,Windows 8,2.82,1443.88
+Dell,Dell_160,Ultrabook,"15.6""",IPS,Intel i7,16GB,256GB SSD,AMD Radeon,Linux,Linux 6,2.48,954.57
+Lenovo,Lenovo_916,Workstation,"16.4""",IPS,Intel i3,16GB,1TB SSD,NVIDIA RTX 3050,Linux,Linux 5,2.9,1450.5
+Asus,Asus_473,Gaming,"16.9""",Retina,Intel i7,8GB,128GB SSD,AMD Radeon,macOS,macOS 10,2.47,809.5
+MSI,MSI_728,Gaming,"13.8""",Retina,Intel i5,16GB,1TB HDD,NVIDIA GTX 1650,Linux,Linux 4,3.11,1144.1
+HP,HP_542,Business,"15.8""",LED,Intel i7,32GB,1TB SSD,AMD Radeon,macOS,macOS 3,2.74,1151.15
+Apple,Apple_138,Gaming,"15.3""",LED,Intel i3,4GB,256GB SSD,Integrated,Windows,Windows 10,3.19,1021.08
+HP,HP_410,Ultrabook,"16.7""",LED,Intel i7,16GB,1TB HDD,AMD Radeon,macOS,macOS 3,1.18,1619.54
+Apple,Apple_338,Gaming,"16.3""",IPS,Intel i9,4GB,128GB SSD,Integrated,Linux,Linux 8,1.72,1069.93
+Apple,Apple_245,Workstation,"13.2""",IPS,AMD Ryzen 5,8GB,128GB SSD,Integrated,Windows,Windows 8,1.31,1612.62
+MSI,MSI_539,Ultrabook,"16.9""",LED,Intel i3,16GB,1TB SSD,NVIDIA RTX 4060,Linux,Linux 8,3.36,793.49
+MSI,MSI_409,Workstation,"16.6""",LED,Intel i5,16GB,256GB SSD,Integrated,macOS,macOS 9,1.47,1372.52
+Asus,Asus_153,Gaming,"15.2""",Retina,Intel i5,4GB,1TB HDD,NVIDIA RTX 3050,macOS,macOS 3,2.9,1437.8
+Acer,Acer_244,Ultrabook,"16.5""",LED,AMD Ryzen 5,32GB,1TB HDD,Integrated,Windows,Windows 4,2.45,977.44
+Dell,Dell_294,Gaming,"16.7""",LED,Intel i3,16GB,128GB SSD,AMD Radeon,Linux,Linux 11,1.7,1122.46
+Apple,Apple_137,Ultrabook,"16.1""",LED,Intel i5,8GB,1TB HDD,NVIDIA RTX 4060,Windows,Windows 12,1.19,1096.72
+Samsung,Samsung_417,Workstation,"16.9""",OLED,Intel i5,32GB,512GB SSD,AMD Radeon,Windows,Windows 1,3.2,1737.68
+Lenovo,Lenovo_435,Student,"16.7""",OLED,Intel i3,4GB,512GB SSD,AMD Radeon,Windows,Windows 5,2.7,976.43
+MSI,MSI_232,Ultrabook,"17.1""",IPS,Intel i7,16GB,256GB SSD,NVIDIA GTX 1650,Linux,Linux 5,2.86,1229.74
+MSI,MSI_181,Student,"15.4""",IPS,AMD Ryzen 5,32GB,256GB SSD,AMD Radeon,macOS,macOS 11,3.45,428.03
+Apple,Apple_547,Workstation,"16.4""",LED,Intel i7,8GB,256GB SSD,Integrated,macOS,macOS 12,2.58,1649.25
+Acer,Acer_136,Workstation,"16.4""",Retina,Intel i9,8GB,1TB SSD,NVIDIA RTX 3050,Windows,Windows 12,1.17,1138.01
+HP,HP_219,Ultrabook,"16.7""",LED,AMD Ryzen 5,32GB,1TB SSD,NVIDIA RTX 3050,Linux,Linux 4,2.9,1293.0
+MSI,MSI_128,Ultrabook,"16.5""",OLED,Intel i7,16GB,256GB SSD,NVIDIA GTX 1650,macOS,macOS 2,3.49,810.4
+MSI,MSI_370,Workstation,"16.0""",Retina,Intel i5,16GB,1TB SSD,NVIDIA RTX 3050,Linux,Linux 3,3.38,1060.24
+Apple,Apple_539,Student,"16.1""",OLED,AMD Ryzen 5,16GB,1TB SSD,NVIDIA RTX 3050,Windows,Windows 5,3.46,879.58
+MSI,MSI_261,Workstation,"13.9""",IPS,Intel i3,32GB,1TB SSD,NVIDIA GTX 1650,Linux,Linux 12,2.18,1458.69
+Samsung,Samsung_159,Gaming,"16.7""",IPS,Intel i7,8GB,256GB SSD,NVIDIA RTX 4060,Linux,Linux 3,2.99,1302.77
+HP,HP_998,Student,"16.4""",IPS,AMD Ryzen 7,8GB,128GB SSD,NVIDIA RTX 4060,Windows,Windows 6,1.56,648.64
+Apple,Apple_930,Workstation,"14.2""",Retina,Intel i7,32GB,1TB HDD,Integrated,Windows,Windows 2,2.7,1565.7
+Acer,Acer_643,Ultrabook,"16.0""",IPS,Intel i9,8GB,128GB SSD,NVIDIA RTX 3050,macOS,macOS 3,1.26,1085.54
+Dell,Dell_687,Gaming,"15.5""",OLED,AMD Ryzen 7,8GB,1TB SSD,NVIDIA RTX 4060,Windows,Windows 10,2.94,1404.63
+Acer,Acer_688,Student,"14.5""",OLED,Intel i5,8GB,256GB SSD,NVIDIA GTX 1650,macOS,macOS 2,1.1,718.32
+Apple,Apple_404,Ultrabook,"13.5""",OLED,AMD Ryzen 7,4GB,128GB SSD,Integrated,macOS,macOS 12,3.18,1279.04
+Acer,Acer_210,Ultrabook,"15.1""",OLED,Intel i9,32GB,1TB SSD,NVIDIA GTX 1650,macOS,macOS 10,2.2,1227.03
+MSI,MSI_908,Student,"16.1""",OLED,Intel i5,8GB,1TB SSD,NVIDIA RTX 4060,Windows,Windows 9,3.18,493.68
+MSI,MSI_408,Ultrabook,"13.7""",LED,Intel i5,16GB,1TB HDD,Integrated,Linux,Linux 3,1.2,994.14
+Lenovo,Lenovo_134,Workstation,"13.3""",OLED,Intel i3,16GB,1TB SSD,Integrated,macOS,macOS 5,2.82,1403.36
+Apple,Apple_831,Student,"16.3""",Retina,Intel i5,4GB,512GB SSD,Integrated,macOS,macOS 5,1.99,1014.8
+Apple,Apple_677,Business,"16.4""",OLED,Intel i5,16GB,512GB SSD,NVIDIA GTX 1650,macOS,macOS 12,1.96,1149.27
+Dell,Dell_966,Business,"16.1""",Retina,AMD Ryzen 7,16GB,256GB SSD,NVIDIA RTX 4060,macOS,macOS 2,1.45,874.64
+Asus,Asus_652,Student,"14.7""",LED,Intel i3,32GB,256GB SSD,Integrated,Linux,Linux 9,3.42,861.46
+MSI,MSI_548,Student,"13.6""",IPS,Intel i7,8GB,512GB SSD,NVIDIA GTX 1650,Windows,Windows 10,2.67,450.85
+Dell,Dell_356,Workstation,"14.1""",OLED,Intel i9,4GB,128GB SSD,NVIDIA RTX 4060,Windows,Windows 11,2.84,1435.67
+Dell,Dell_731,Student,"14.9""",OLED,AMD Ryzen 7,32GB,512GB SSD,AMD Radeon,macOS,macOS 2,1.31,1115.35
+Asus,Asus_119,Business,"13.2""",OLED,Intel i7,8GB,1TB HDD,AMD Radeon,Linux,Linux 5,1.26,1243.15
+Apple,Apple_792,Business,"17.2""",OLED,AMD Ryzen 7,8GB,128GB SSD,NVIDIA GTX 1650,Windows,Windows 9,2.45,1054.38
+Samsung,Samsung_594,Ultrabook,"15.1""",Retina,AMD Ryzen 7,32GB,1TB HDD,NVIDIA RTX 4060,macOS,macOS 10,2.83,1021.12
+MSI,MSI_875,Workstation,"14.9""",IPS,AMD Ryzen 7,16GB,256GB SSD,Integrated,Linux,Linux 7,3.36,1414.54
+HP,HP_513,Business,"14.0""",LED,Intel i3,32GB,512GB SSD,Integrated,macOS,macOS 4,2.69,1027.75
+Asus,Asus_403,Workstation,"15.5""",LED,Intel i9,8GB,256GB SSD,Integrated,Windows,Windows 9,3.48,1271.4
+Asus,Asus_684,Workstation,"15.4""",IPS,Intel i7,32GB,256GB SSD,AMD Radeon,macOS,macOS 4,2.67,1619.48
+Dell,Dell_378,Ultrabook,"16.7""",IPS,AMD Ryzen 7,8GB,128GB SSD,AMD Radeon,Linux,Linux 1,1.92,1240.23
+MSI,MSI_242,Workstation,"14.6""",IPS,Intel i3,4GB,128GB SSD,Integrated,Linux,Linux 12,1.04,1262.3
+Acer,Acer_941,Business,"15.0""",OLED,AMD Ryzen 5,8GB,256GB SSD,NVIDIA RTX 4060,Windows,Windows 10,1.27,962.42
+Asus,Asus_403,Workstation,"14.1""",Retina,Intel i7,32GB,256GB SSD,NVIDIA RTX 4060,Linux,Linux 11,1.05,1651.79
+Dell,Dell_903,Ultrabook,"14.6""",Retina,AMD Ryzen 5,4GB,512GB SSD,NVIDIA GTX 1650,macOS,macOS 4,1.64,1156.24
+Apple,Apple_593,Ultrabook,"17.0""",Retina,Intel i7,32GB,256GB SSD,NVIDIA RTX 4060,macOS,macOS 2,2.0,888.27
+Apple,Apple_685,Workstation,"13.8""",OLED,Intel i3,8GB,1TB HDD,NVIDIA GTX 1650,macOS,macOS 7,3.04,1512.63
+Apple,Apple_475,Workstation,"15.7""",OLED,AMD Ryzen 5,16GB,1TB HDD,NVIDIA RTX 4060,Windows,Windows 10,1.53,1219.48
+Asus,Asus_781,Gaming,"14.0""",IPS,Intel i9,8GB,512GB SSD,NVIDIA RTX 4060,Linux,Linux 10,3.02,1549.92
+Lenovo,Lenovo_775,Business,"14.9""",LED,AMD Ryzen 5,16GB,128GB SSD,NVIDIA RTX 3050,macOS,macOS 1,1.54,1144.92
+Samsung,Samsung_622,Business,"14.1""",IPS,AMD Ryzen 5,4GB,128GB SSD,NVIDIA GTX 1650,Linux,Linux 7,2.74,1224.68
+Lenovo,Lenovo_653,Workstation,"16.1""",IPS,Intel i7,16GB,1TB SSD,NVIDIA RTX 3050,macOS,macOS 6,2.45,1424.17
+Samsung,Samsung_840,Gaming,"15.6""",IPS,Intel i3,16GB,128GB SSD,NVIDIA RTX 4060,Windows,Windows 1,3.08,1159.28
+Apple,Apple_616,Student,"14.0""",IPS,AMD Ryzen 7,32GB,256GB SSD,NVIDIA RTX 3050,macOS,macOS 12,1.81,945.53
+MSI,MSI_271,Business,"14.6""",OLED,Intel i5,16GB,1TB SSD,NVIDIA RTX 4060,macOS,macOS 4,3.4,658.07
+Asus,Asus_386,Gaming,"13.7""",LED,AMD Ryzen 7,8GB,128GB SSD,NVIDIA RTX 4060,Windows,Windows 12,3.45,732.89
+MSI,MSI_447,Ultrabook,"13.7""",IPS,Intel i9,32GB,1TB SSD,Integrated,Windows,Windows 5,1.23,1000.14
+Acer,Acer_555,Gaming,"15.6""",Retina,AMD Ryzen 7,32GB,256GB SSD,AMD Radeon,macOS,macOS 4,1.76,1042.8
+Asus,Asus_869,Ultrabook,"14.0""",IPS,Intel i7,16GB,1TB SSD,NVIDIA GTX 1650,macOS,macOS 7,1.4,833.75
+Acer,Acer_242,Student,"16.7""",LED,Intel i9,16GB,128GB SSD,NVIDIA GTX 1650,macOS,macOS 2,2.57,774.61
+Acer,Acer_233,Ultrabook,"16.4""",Retina,AMD Ryzen 7,4GB,1TB HDD,NVIDIA RTX 3050,macOS,macOS 11,2.74,1500.39
+HP,HP_305,Student,"15.5""",LED,Intel i3,8GB,128GB SSD,AMD Radeon,macOS,macOS 1,3.31,1192.98
+Acer,Acer_337,Workstation,"14.4""",OLED,Intel i3,8GB,128GB SSD,AMD Radeon,Windows,Windows 2,1.17,1439.97
+HP,HP_636,Student,"13.3""",Retina,Intel i9,4GB,1TB SSD,NVIDIA GTX 1650,Windows,Windows 12,3.13,368.71
+MSI,MSI_616,Ultrabook,"13.8""",IPS,Intel i5,8GB,512GB SSD,NVIDIA GTX 1650,Windows,Windows 8,1.74,1351.29
+MSI,MSI_182,Gaming,"13.6""",IPS,Intel i9,8GB,512GB SSD,NVIDIA RTX 4060,Windows,Windows 4,2.58,1053.4
+Apple,Apple_919,Workstation,"15.7""",Retina,AMD Ryzen 7,16GB,256GB SSD,AMD Radeon,Linux,Linux 3,1.92,1351.34
+Apple,Apple_625,Workstation,"14.7""",IPS,AMD Ryzen 7,16GB,256GB SSD,NVIDIA RTX 3050,Windows,Windows 6,2.98,1849.85
+Samsung,Samsung_522,Workstation,"13.9""",IPS,Intel i5,8GB,1TB HDD,AMD Radeon,Windows,Windows 2,1.16,1658.8
+Samsung,Samsung_263,Gaming,"13.5""",Retina,Intel i7,16GB,1TB HDD,NVIDIA RTX 4060,Linux,Linux 5,2.22,1111.34
+Apple,Apple_693,Ultrabook,"14.6""",Retina,AMD Ryzen 5,8GB,256GB SSD,AMD Radeon,macOS,macOS 1,3.39,923.04
+Dell,Dell_219,Gaming,"17.1""",LED,Intel i9,32GB,1TB HDD,Integrated,macOS,macOS 2,1.1,1182.33
+Lenovo,Lenovo_858,Business,"14.7""",LED,Intel i3,16GB,128GB SSD,NVIDIA RTX 4060,Linux,Linux 8,3.21,1084.27
+Asus,Asus_515,Student,"15.2""",IPS,AMD Ryzen 5,32GB,128GB SSD,NVIDIA RTX 3050,Windows,Windows 3,1.18,539.5
+Acer,Acer_327,Ultrabook,"17.2""",OLED,Intel i7,32GB,512GB SSD,NVIDIA RTX 3050,macOS,macOS 5,2.37,1359.76
+Acer,Acer_451,Business,"13.1""",Retina,Intel i9,4GB,128GB SSD,Integrated,macOS,macOS 2,1.03,727.72
+Dell,Dell_268,Gaming,"15.3""",LED,Intel i5,8GB,1TB HDD,NVIDIA RTX 4060,Linux,Linux 8,1.28,1023.91
+Asus,Asus_792,Student,"13.7""",LED,Intel i3,32GB,256GB SSD,Integrated,Windows,Windows 8,2.08,1111.24
+Acer,Acer_513,Student,"13.5""",Retina,Intel i7,8GB,128GB SSD,AMD Radeon,Linux,Linux 10,3.04,479.36
+MSI,MSI_138,Gaming,"14.1""",OLED,Intel i5,4GB,1TB HDD,AMD Radeon,macOS,macOS 8,2.87,941.29
+Samsung,Samsung_302,Ultrabook,"14.2""",Retina,AMD Ryzen 5,4GB,256GB SSD,NVIDIA GTX 1650,Windows,Windows 5,2.81,1146.83
+Lenovo,Lenovo_661,Ultrabook,"13.6""",Retina,AMD Ryzen 5,8GB,512GB SSD,AMD Radeon,Windows,Windows 1,2.27,1213.1
+Asus,Asus_129,Student,"15.7""",Retina,AMD Ryzen 5,16GB,256GB SSD,NVIDIA GTX 1650,Windows,Windows 12,2.82,347.85
+Dell,Dell_203,Ultrabook,"14.7""",LED,Intel i5,16GB,128GB SSD,NVIDIA GTX 1650,Windows,Windows 7,2.54,902.58
+Dell,Dell_599,Student,"13.0""",LED,Intel i5,8GB,1TB SSD,Integrated,macOS,macOS 9,3.4,997.35
+Dell,Dell_119,Ultrabook,"16.3""",OLED,AMD Ryzen 7,32GB,512GB SSD,AMD Radeon,macOS,macOS 4,1.96,1342.15
+Acer,Acer_326,Business,"14.7""",IPS,AMD Ryzen 7,32GB,1TB HDD,NVIDIA GTX 1650,macOS,macOS 4,1.45,1023.81
+Asus,Asus_119,Gaming,"15.5""",Retina,AMD Ryzen 5,8GB,512GB SSD,AMD Radeon,macOS,macOS 7,2.76,1196.0
+Acer,Acer_693,Ultrabook,"14.2""",Retina,Intel i7,4GB,512GB SSD,AMD Radeon,macOS,macOS 10,2.77,966.7
+MSI,MSI_967,Ultrabook,"14.9""",Retina,AMD Ryzen 7,16GB,128GB SSD,Integrated,macOS,macOS 4,1.16,1223.53
+Dell,Dell_217,Workstation,"13.7""",LED,Intel i9,32GB,512GB SSD,NVIDIA RTX 4060,Linux,Linux 7,2.43,1639.65
+Samsung,Samsung_936,Gaming,"15.4""",LED,Intel i5,16GB,1TB HDD,NVIDIA RTX 3050,Windows,Windows 6,1.68,820.81
+Asus,Asus_525,Ultrabook,"14.8""",OLED,AMD Ryzen 5,4GB,1TB HDD,NVIDIA RTX 4060,Windows,Windows 5,2.15,1134.06
+Asus,Asus_455,Business,"13.3""",OLED,Intel i5,16GB,128GB SSD,Integrated,macOS,macOS 9,1.4,700.32
+MSI,MSI_695,Gaming,"17.1""",LED,Intel i9,8GB,1TB SSD,NVIDIA RTX 3050,Linux,Linux 12,2.97,1260.36
+HP,HP_947,Business,"16.6""",LED,Intel i9,4GB,1TB HDD,NVIDIA RTX 4060,Linux,Linux 4,2.55,510.42
+HP,HP_618,Business,"16.1""",OLED,Intel i9,32GB,1TB HDD,NVIDIA GTX 1650,macOS,macOS 12,2.97,1056.74
+Acer,Acer_412,Workstation,"17.2""",LED,AMD Ryzen 5,16GB,256GB SSD,AMD Radeon,Windows,Windows 3,1.77,1378.53
+Dell,Dell_426,Gaming,"15.3""",IPS,AMD Ryzen 5,8GB,1TB SSD,NVIDIA GTX 1650,Linux,Linux 9,2.98,1525.86
+Dell,Dell_628,Business,"13.4""",LED,Intel i5,4GB,256GB SSD,AMD Radeon,Windows,Windows 2,2.66,859.83
+Samsung,Samsung_979,Ultrabook,"15.8""",LED,Intel i9,32GB,1TB SSD,NVIDIA RTX 3050,macOS,macOS 3,1.13,1071.66
+MSI,MSI_660,Workstation,"13.7""",OLED,Intel i9,8GB,1TB SSD,AMD Radeon,Linux,Linux 6,1.4,1816.52
+Dell,Dell_546,Business,"13.3""",LED,Intel i7,32GB,1TB SSD,Integrated,macOS,macOS 4,3.0,975.97
+MSI,MSI_535,Gaming,"14.7""",OLED,Intel i7,4GB,512GB SSD,NVIDIA RTX 3050,macOS,macOS 8,1.72,1272.51
+Asus,Asus_171,Gaming,"14.7""",Retina,AMD Ryzen 7,32GB,256GB SSD,NVIDIA GTX 1650,macOS,macOS 12,1.42,1473.68
+Samsung,Samsung_486,Workstation,"16.9""",LED,Intel i7,32GB,128GB SSD,NVIDIA RTX 4060,Windows,Windows 7,1.46,1559.6
+Lenovo,Lenovo_712,Student,"16.4""",LED,AMD Ryzen 7,16GB,128GB SSD,NVIDIA RTX 4060,Linux,Linux 7,3.42,852.18
+MSI,MSI_208,Workstation,"15.9""",IPS,Intel i5,32GB,1TB SSD,NVIDIA GTX 1650,Linux,Linux 11,1.41,1506.54
+Dell,Dell_295,Gaming,"16.5""",LED,AMD Ryzen 7,8GB,1TB HDD,NVIDIA RTX 3050,Windows,Windows 12,3.15,1146.62
+Apple,Apple_585,Business,"13.5""",Retina,Intel i9,4GB,512GB SSD,NVIDIA GTX 1650,Linux,Linux 12,2.15,881.77
+Lenovo,Lenovo_687,Student,"15.3""",Retina,AMD Ryzen 5,32GB,256GB SSD,Integrated,Windows,Windows 3,1.35,251.99
+Dell,Dell_406,Business,"16.2""",IPS,AMD Ryzen 7,4GB,1TB HDD,NVIDIA RTX 4060,Linux,Linux 11,2.59,974.49
+HP,HP_582,Student,"15.9""",LED,Intel i3,32GB,1TB SSD,Integrated,Linux,Linux 7,1.19,541.99
+Lenovo,Lenovo_615,Business,"15.2""",LED,AMD Ryzen 5,16GB,128GB SSD,AMD Radeon,Windows,Windows 4,3.35,970.13
+Lenovo,Lenovo_863,Workstation,"16.9""",OLED,Intel i3,8GB,512GB SSD,NVIDIA RTX 3050,Linux,Linux 11,1.28,1597.84
+Samsung,Samsung_657,Student,"14.6""",LED,Intel i7,16GB,512GB SSD,NVIDIA RTX 4060,Windows,Windows 9,2.05,777.65
+Acer,Acer_998,Business,"16.0""",Retina,Intel i9,4GB,128GB SSD,NVIDIA RTX 3050,Linux,Linux 9,1.7,760.72
+MSI,MSI_497,Workstation,"15.3""",Retina,Intel i3,8GB,128GB SSD,Integrated,Windows,Windows 11,1.19,1649.08
+Dell,Dell_807,Ultrabook,"16.9""",Retina,Intel i5,4GB,1TB HDD,Integrated,Linux,Linux 7,2.33,922.82
+Acer,Acer_980,Student,"15.5""",Retina,AMD Ryzen 7,8GB,1TB HDD,AMD Radeon,Windows,Windows 4,1.55,1044.37
+Dell,Dell_544,Gaming,"15.9""",IPS,Intel i5,32GB,128GB SSD,AMD Radeon,Linux,Linux 8,1.79,1183.15
+Apple,Apple_273,Gaming,"14.5""",Retina,AMD Ryzen 5,8GB,1TB HDD,NVIDIA RTX 3050,macOS,macOS 4,2.97,1480.31
+Apple,Apple_639,Student,"14.7""",IPS,Intel i7,8GB,1TB SSD,NVIDIA GTX 1650,macOS,macOS 11,2.86,921.81
+Dell,Dell_683,Gaming,"13.0""",IPS,Intel i9,8GB,256GB SSD,NVIDIA RTX 3050,Linux,Linux 12,2.17,917.01
+Lenovo,Lenovo_523,Ultrabook,"14.9""",Retina,Intel i3,4GB,1TB HDD,Integrated,macOS,macOS 1,1.55,581.37
+Lenovo,Lenovo_503,Student,"14.2""",OLED,AMD Ryzen 5,4GB,128GB SSD,NVIDIA GTX 1650,Linux,Linux 6,3.33,544.17
+Dell,Dell_628,Workstation,"14.5""",OLED,Intel i3,16GB,1TB HDD,NVIDIA RTX 3050,macOS,macOS 3,2.13,1461.13
+MSI,MSI_657,Workstation,"14.7""",Retina,Intel i7,32GB,1TB HDD,AMD Radeon,Windows,Windows 12,2.69,1710.39
+Apple,Apple_349,Workstation,"13.0""",OLED,AMD Ryzen 7,16GB,1TB HDD,Integrated,Linux,Linux 4,2.72,1304.21
+HP,HP_423,Gaming,"15.0""",LED,AMD Ryzen 5,16GB,1TB SSD,NVIDIA RTX 4060,Windows,Windows 1,2.01,1426.9
+HP,HP_896,Gaming,"15.8""",OLED,Intel i7,4GB,256GB SSD,NVIDIA GTX 1650,Linux,Linux 6,1.29,1037.52
+MSI,MSI_639,Ultrabook,"16.1""",OLED,AMD Ryzen 5,8GB,1TB HDD,NVIDIA RTX 3050,macOS,macOS 8,3.05,1163.39
+Lenovo,Lenovo_932,Workstation,"14.7""",IPS,AMD Ryzen 5,8GB,128GB SSD,Integrated,Linux,Linux 8,2.63,1880.19
+Apple,Apple_376,Ultrabook,"14.8""",OLED,AMD Ryzen 5,16GB,128GB SSD,AMD Radeon,macOS,macOS 10,2.48,987.62
+Lenovo,Lenovo_255,Student,"16.9""",OLED,Intel i7,32GB,256GB SSD,NVIDIA RTX 3050,Windows,Windows 6,2.76,434.28
+Dell,Dell_778,Business,"13.7""",IPS,Intel i9,4GB,128GB SSD,Integrated,Linux,Linux 4,1.85,430.09
+Lenovo,Lenovo_526,Ultrabook,"14.8""",IPS,Intel i3,8GB,1TB HDD,NVIDIA GTX 1650,macOS,macOS 1,1.26,1166.9
+Dell,Dell_976,Business,"15.1""",Retina,Intel i7,16GB,512GB SSD,AMD Radeon,macOS,macOS 11,1.52,870.29
+Lenovo,Lenovo_917,Ultrabook,"13.6""",IPS,AMD Ryzen 7,8GB,1TB HDD,NVIDIA GTX 1650,Windows,Windows 5,3.39,1247.28
+Asus,Asus_134,Student,"17.3""",IPS,Intel i3,4GB,1TB HDD,NVIDIA RTX 3050,Linux,Linux 4,1.08,696.34
+Asus,Asus_773,Workstation,"16.3""",OLED,Intel i7,16GB,256GB SSD,NVIDIA GTX 1650,Windows,Windows 3,1.44,1579.45
+Asus,Asus_482,Student,"14.0""",OLED,Intel i9,16GB,128GB SSD,NVIDIA RTX 4060,Linux,Linux 8,3.5,764.88
+Apple,Apple_534,Workstation,"17.3""",Retina,Intel i5,32GB,128GB SSD,NVIDIA GTX 1650,Linux,Linux 5,2.83,1428.42
+Samsung,Samsung_383,Workstation,"15.0""",Retina,AMD Ryzen 7,16GB,512GB SSD,AMD Radeon,macOS,macOS 11,1.88,1390.91
+Acer,Acer_494,Student,"13.2""",Retina,Intel i9,4GB,256GB SSD,NVIDIA RTX 4060,macOS,macOS 1,3.37,690.19
+HP,HP_403,Student,"15.1""",Retina,AMD Ryzen 7,16GB,256GB SSD,NVIDIA RTX 4060,macOS,macOS 11,1.51,580.87
+Lenovo,Lenovo_803,Gaming,"14.6""",IPS,Intel i7,4GB,512GB SSD,NVIDIA GTX 1650,Linux,Linux 4,3.02,1474.89
+Lenovo,Lenovo_147,Gaming,"13.3""",IPS,Intel i3,4GB,128GB SSD,Integrated,Linux,Linux 6,1.64,1344.54
+HP,HP_579,Workstation,"13.1""",OLED,AMD Ryzen 7,8GB,256GB SSD,AMD Radeon,macOS,macOS 9,1.7,1327.53
+Samsung,Samsung_385,Gaming,"16.4""",OLED,Intel i7,8GB,256GB SSD,Integrated,Linux,Linux 7,1.11,1441.85
+MSI,MSI_648,Workstation,"16.2""",IPS,Intel i9,32GB,128GB SSD,Integrated,Linux,Linux 2,1.26,1212.09
+MSI,MSI_364,Business,"13.3""",Retina,Intel i9,8GB,512GB SSD,NVIDIA RTX 3050,Linux,Linux 12,2.44,756.82
+HP,HP_845,Student,"16.0""",Retina,Intel i5,8GB,256GB SSD,AMD Radeon,Linux,Linux 12,3.16,767.23
+Lenovo,Lenovo_314,Ultrabook,"13.1""",OLED,AMD Ryzen 5,16GB,128GB SSD,Integrated,Windows,Windows 5,1.08,1018.71
+Dell,Dell_825,Gaming,"16.1""",Retina,AMD Ryzen 7,8GB,256GB SSD,NVIDIA RTX 4060,macOS,macOS 4,2.59,923.43
+HP,HP_113,Business,"16.1""",Retina,AMD Ryzen 5,32GB,1TB SSD,AMD Radeon,Linux,Linux 7,2.8,675.39
+HP,HP_949,Business,"16.1""",IPS,Intel i9,4GB,128GB SSD,Integrated,macOS,macOS 10,2.79,835.16
+Acer,Acer_393,Gaming,"13.3""",LED,Intel i3,8GB,1TB HDD,NVIDIA RTX 4060,Windows,Windows 12,1.25,930.83
+Lenovo,Lenovo_773,Student,"15.5""",LED,Intel i7,4GB,512GB SSD,Integrated,macOS,macOS 8,3.41,536.15
+Asus,Asus_500,Business,"13.2""",IPS,Intel i3,32GB,512GB SSD,Integrated,Linux,Linux 10,1.35,1010.02
+Asus,Asus_635,Student,"13.6""",Retina,Intel i3,8GB,128GB SSD,AMD Radeon,Linux,Linux 3,2.61,627.99
+HP,HP_200,Student,"16.7""",OLED,Intel i5,32GB,512GB SSD,NVIDIA RTX 4060,Windows,Windows 12,3.15,743.98
+Apple,Apple_130,Business,"13.9""",IPS,AMD Ryzen 7,16GB,128GB SSD,NVIDIA RTX 4060,Windows,Windows 7,2.52,634.78
+HP,HP_827,Student,"16.2""",Retina,AMD Ryzen 7,32GB,1TB SSD,AMD Radeon,macOS,macOS 6,2.45,900.42
+Acer,Acer_749,Workstation,"14.2""",IPS,Intel i5,8GB,1TB HDD,AMD Radeon,macOS,macOS 8,3.1,1603.44
+Dell,Dell_967,Business,"13.1""",OLED,AMD Ryzen 7,4GB,1TB SSD,NVIDIA RTX 4060,Windows,Windows 11,3.19,878.18
+Dell,Dell_951,Student,"14.1""",IPS,Intel i9,8GB,1TB SSD,NVIDIA RTX 3050,macOS,macOS 5,1.19,602.28
+MSI,MSI_833,Gaming,"13.5""",LED,AMD Ryzen 5,4GB,128GB SSD,NVIDIA GTX 1650,Linux,Linux 4,2.6,1554.22
+Asus,Asus_583,Workstation,"17.2""",OLED,Intel i7,4GB,512GB SSD,Integrated,Linux,Linux 9,1.73,1867.52
+Asus,Asus_313,Ultrabook,"14.3""",OLED,AMD Ryzen 5,4GB,1TB HDD,NVIDIA GTX 1650,macOS,macOS 12,2.18,1134.52
+Apple,Apple_701,Gaming,"14.0""",Retina,Intel i9,8GB,512GB SSD,NVIDIA RTX 4060,macOS,macOS 9,1.51,1111.45
+HP,HP_591,Business,"16.9""",IPS,Intel i5,16GB,1TB HDD,NVIDIA RTX 3050,Linux,Linux 5,2.32,1124.57
+MSI,MSI_663,Student,"15.3""",OLED,Intel i3,8GB,256GB SSD,NVIDIA GTX 1650,Windows,Windows 2,1.02,803.51
+Apple,Apple_460,Ultrabook,"13.2""",IPS,Intel i5,8GB,512GB SSD,NVIDIA GTX 1650,Linux,Linux 10,2.7,1061.99
+Acer,Acer_545,Business,"15.4""",LED,AMD Ryzen 5,16GB,512GB SSD,AMD Radeon,Windows,Windows 11,2.69,828.51
+Dell,Dell_851,Ultrabook,"16.4""",OLED,Intel i9,32GB,128GB SSD,NVIDIA RTX 4060,Linux,Linux 12,3.49,780.38
+Dell,Dell_373,Ultrabook,"13.8""",LED,AMD Ryzen 7,8GB,256GB SSD,NVIDIA RTX 4060,Linux,Linux 11,1.89,1192.43
+Dell,Dell_718,Ultrabook,"15.2""",LED,Intel i5,16GB,1TB HDD,NVIDIA GTX 1650,macOS,macOS 4,1.62,1378.49
+Lenovo,Lenovo_695,Business,"16.3""",LED,Intel i9,4GB,1TB HDD,NVIDIA GTX 1650,Windows,Windows 12,3.32,1135.06
+HP,HP_354,Ultrabook,"13.2""",LED,Intel i9,32GB,256GB SSD,NVIDIA RTX 3050,macOS,macOS 5,1.61,1276.77
+Asus,Asus_109,Student,"14.2""",Retina,Intel i7,8GB,512GB SSD,Integrated,Windows,Windows 7,1.93,656.45
+Apple,Apple_503,Workstation,"13.1""",OLED,Intel i3,16GB,512GB SSD,NVIDIA GTX 1650,macOS,macOS 1,2.97,1581.3
+Lenovo,Lenovo_181,Student,"16.6""",IPS,Intel i5,8GB,1TB HDD,NVIDIA RTX 4060,Linux,Linux 10,3.1,384.08
+Dell,Dell_204,Workstation,"13.2""",IPS,AMD Ryzen 7,8GB,1TB HDD,Integrated,Windows,Windows 4,2.45,1895.29
+Lenovo,Lenovo_687,Business,"16.6""",IPS,Intel i9,16GB,256GB SSD,AMD Radeon,Windows,Windows 4,3.06,587.15
+Apple,Apple_498,Business,"13.9""",IPS,Intel i3,32GB,512GB SSD,NVIDIA RTX 4060,macOS,macOS 9,1.91,1035.43
+Dell,Dell_806,Ultrabook,"16.6""",IPS,Intel i9,8GB,1TB HDD,NVIDIA GTX 1650,Linux,Linux 2,3.19,1026.93
+MSI,MSI_280,Student,"14.8""",IPS,AMD Ryzen 7,4GB,128GB SSD,Integrated,Windows,Windows 9,1.15,973.37
+Samsung,Samsung_490,Workstation,"14.3""",OLED,Intel i7,8GB,1TB SSD,NVIDIA RTX 4060,macOS,macOS 3,2.66,1331.14
+MSI,MSI_268,Workstation,"16.3""",LED,Intel i5,8GB,1TB HDD,Integrated,Linux,Linux 3,1.45,1656.68
+Acer,Acer_839,Workstation,"15.3""",Retina,Intel i3,32GB,512GB SSD,NVIDIA GTX 1650,macOS,macOS 11,1.67,1449.69
+Acer,Acer_620,Gaming,"17.1""",LED,AMD Ryzen 7,4GB,128GB SSD,NVIDIA RTX 4060,Linux,Linux 9,1.32,1491.34
+MSI,MSI_828,Ultrabook,"14.6""",IPS,Intel i5,32GB,512GB SSD,Integrated,Linux,Linux 7,1.31,1162.36
+Asus,Asus_737,Gaming,"14.2""",OLED,Intel i3,4GB,128GB SSD,AMD Radeon,macOS,macOS 6,2.66,1347.47
+Asus,Asus_282,Gaming,"14.3""",LED,Intel i9,32GB,1TB SSD,NVIDIA GTX 1650,Windows,Windows 3,2.96,1428.23
+Lenovo,Lenovo_587,Business,"15.6""",LED,AMD Ryzen 5,16GB,1TB SSD,NVIDIA RTX 3050,Windows,Windows 3,2.77,1357.96
+Asus,Asus_292,Workstation,"16.1""",LED,AMD Ryzen 5,32GB,512GB SSD,NVIDIA RTX 3050,Linux,Linux 11,3.16,1885.51
+Apple,Apple_194,Student,"15.7""",LED,AMD Ryzen 7,16GB,128GB SSD,AMD Radeon,Linux,Linux 8,3.34,430.9
+Samsung,Samsung_223,Gaming,"15.4""",LED,AMD Ryzen 5,16GB,1TB HDD,NVIDIA RTX 3050,Windows,Windows 6,1.84,1336.41
+Dell,Dell_945,Workstation,"13.3""",OLED,Intel i3,8GB,256GB SSD,Integrated,Linux,Linux 6,1.83,1468.82
+Apple,Apple_388,Workstation,"16.4""",OLED,AMD Ryzen 7,16GB,512GB SSD,AMD Radeon,Windows,Windows 8,1.69,1390.34
+HP,HP_460,Gaming,"13.0""",LED,AMD Ryzen 5,8GB,128GB SSD,NVIDIA GTX 1650,macOS,macOS 10,1.28,1502.72
+HP,HP_567,Gaming,"13.9""",IPS,Intel i9,16GB,512GB SSD,NVIDIA RTX 3050,macOS,macOS 2,2.21,1077.33
+Samsung,Samsung_613,Student,"15.4""",LED,AMD Ryzen 7,8GB,512GB SSD,NVIDIA RTX 3050,Windows,Windows 6,1.17,1053.14
+Lenovo,Lenovo_695,Ultrabook,"15.8""",LED,AMD Ryzen 5,8GB,512GB SSD,NVIDIA RTX 3050,macOS,macOS 9,2.77,974.42
+Samsung,Samsung_425,Gaming,"15.3""",OLED,Intel i9,8GB,1TB HDD,NVIDIA RTX 4060,Windows,Windows 3,1.26,1310.3
+Lenovo,Lenovo_347,Student,"16.0""",IPS,AMD Ryzen 5,32GB,128GB SSD,Integrated,Windows,Windows 4,3.34,768.12
+Dell,Dell_263,Ultrabook,"17.1""",Retina,Intel i3,4GB,256GB SSD,Integrated,macOS,macOS 2,2.86,1245.61
+Asus,Asus_226,Gaming,"14.9""",OLED,Intel i9,4GB,512GB SSD,Integrated,Linux,Linux 10,3.49,1135.44
+Apple,Apple_884,Ultrabook,"15.7""",LED,Intel i5,32GB,1TB HDD,Integrated,Windows,Windows 7,1.13,905.38
+Acer,Acer_413,Gaming,"15.9""",LED,AMD Ryzen 7,32GB,256GB SSD,NVIDIA GTX 1650,macOS,macOS 3,2.23,824.51
+MSI,MSI_688,Ultrabook,"15.7""",IPS,Intel i7,8GB,512GB SSD,NVIDIA GTX 1650,Windows,Windows 9,1.52,980.72
+Apple,Apple_895,Gaming,"16.8""",IPS,Intel i5,32GB,512GB SSD,AMD Radeon,macOS,macOS 10,1.62,1414.85
+Apple,Apple_841,Business,"15.1""",LED,Intel i9,16GB,1TB HDD,NVIDIA RTX 4060,macOS,macOS 2,2.25,993.12
+Asus,Asus_871,Workstation,"15.0""",Retina,Intel i9,32GB,128GB SSD,NVIDIA RTX 3050,macOS,macOS 6,2.64,1768.57
+Dell,Dell_713,Workstation,"13.7""",IPS,Intel i3,8GB,1TB SSD,AMD Radeon,macOS,macOS 7,2.8,1458.21
+Apple,Apple_168,Gaming,"14.3""",Retina,Intel i7,32GB,256GB SSD,Integrated,Windows,Windows 10,3.07,1453.58
+Dell,Dell_848,Workstation,"14.4""",LED,Intel i3,8GB,256GB SSD,Integrated,Windows,Windows 5,3.26,1561.65
+Asus,Asus_525,Gaming,"14.5""",Retina,Intel i7,8GB,128GB SSD,Integrated,Windows,Windows 5,2.03,768.68
+Samsung,Samsung_657,Student,"14.0""",OLED,AMD Ryzen 5,4GB,1TB HDD,NVIDIA GTX 1650,Windows,Windows 6,2.97,774.86
+Acer,Acer_820,Ultrabook,"16.1""",OLED,AMD Ryzen 7,8GB,256GB SSD,NVIDIA RTX 4060,Linux,Linux 4,1.3,732.3
+HP,HP_639,Ultrabook,"14.1""",OLED,AMD Ryzen 7,16GB,512GB SSD,NVIDIA RTX 4060,Linux,Linux 9,2.04,1368.34
+HP,HP_274,Business,"13.7""",LED,Intel i5,16GB,1TB HDD,Integrated,macOS,macOS 1,2.24,433.87
+Asus,Asus_394,Business,"15.2""",IPS,AMD Ryzen 5,8GB,128GB SSD,NVIDIA RTX 3050,Linux,Linux 10,2.27,840.06
+Dell,Dell_270,Gaming,"15.9""",OLED,AMD Ryzen 5,4GB,512GB SSD,NVIDIA GTX 1650,Windows,Windows 6,2.81,1189.96
+Samsung,Samsung_923,Gaming,"15.0""",LED,Intel i3,16GB,1TB SSD,NVIDIA RTX 3050,macOS,macOS 9,2.33,1466.35
+Dell,Dell_528,Ultrabook,"13.1""",LED,AMD Ryzen 7,4GB,256GB SSD,NVIDIA RTX 3050,macOS,macOS 8,3.19,1108.77
+Apple,Apple_850,Gaming,"16.2""",OLED,Intel i9,32GB,128GB SSD,Integrated,Windows,Windows 2,1.94,1141.04
+Samsung,Samsung_320,Ultrabook,"13.2""",OLED,Intel i7,16GB,512GB SSD,NVIDIA RTX 4060,Linux,Linux 12,2.81,1369.24
+HP,HP_578,Ultrabook,"17.0""",LED,Intel i7,8GB,128GB SSD,Integrated,Linux,Linux 12,1.24,767.9
+HP,HP_968,Workstation,"14.5""",Retina,Intel i5,32GB,128GB SSD,NVIDIA RTX 3050,Windows,Windows 3,2.55,1863.93
+Asus,Asus_670,Student,"13.8""",Retina,AMD Ryzen 7,4GB,256GB SSD,Integrated,Linux,Linux 3,2.08,805.98
+Asus,Asus_569,Business,"14.3""",IPS,AMD Ryzen 5,16GB,512GB SSD,Integrated,Windows,Windows 11,3.15,982.45
+Acer,Acer_815,Business,"15.2""",OLED,Intel i3,8GB,256GB SSD,NVIDIA GTX 1650,Linux,Linux 10,2.13,883.67
+Acer,Acer_905,Gaming,"14.1""",LED,Intel i7,8GB,1TB HDD,Integrated,macOS,macOS 12,2.16,1308.68
+Acer,Acer_880,Ultrabook,"15.6""",LED,Intel i5,16GB,1TB HDD,NVIDIA RTX 4060,Linux,Linux 7,1.47,1152.09
+Apple,Apple_260,Student,"13.9""",IPS,AMD Ryzen 7,8GB,1TB HDD,AMD Radeon,Linux,Linux 5,2.58,592.23
+Acer,Acer_789,Gaming,"16.9""",OLED,AMD Ryzen 5,16GB,1TB HDD,NVIDIA GTX 1650,macOS,macOS 8,1.62,1058.54
+Samsung,Samsung_126,Student,"16.9""",IPS,Intel i7,32GB,1TB HDD,NVIDIA GTX 1650,Linux,Linux 11,1.6,725.07
+MSI,MSI_499,Workstation,"14.4""",OLED,Intel i9,16GB,512GB SSD,AMD Radeon,Linux,Linux 6,2.42,1716.35
+Lenovo,Lenovo_697,Business,"16.0""",Retina,Intel i7,8GB,512GB SSD,NVIDIA RTX 3050,Windows,Windows 5,2.01,637.56
+Lenovo,Lenovo_636,Student,"17.3""",OLED,Intel i7,16GB,256GB SSD,NVIDIA GTX 1650,Windows,Windows 11,2.45,910.92
+Lenovo,Lenovo_721,Business,"14.5""",IPS,Intel i7,4GB,512GB SSD,AMD Radeon,macOS,macOS 4,3.15,939.78
+HP,HP_567,Gaming,"15.2""",Retina,Intel i7,4GB,256GB SSD,NVIDIA RTX 3050,Linux,Linux 6,1.93,1592.52
+MSI,MSI_956,Gaming,"13.3""",LED,Intel i7,4GB,1TB SSD,Integrated,Linux,Linux 8,2.76,1200.74
+Acer,Acer_853,Gaming,"16.6""",LED,Intel i5,32GB,256GB SSD,Integrated,Linux,Linux 11,2.75,1282.97
+Acer,Acer_265,Ultrabook,"15.7""",LED,AMD Ryzen 7,4GB,1TB HDD,NVIDIA GTX 1650,Windows,Windows 1,1.69,1192.66
+Apple,Apple_537,Business,"16.2""",Retina,Intel i7,8GB,1TB SSD,AMD Radeon,macOS,macOS 1,2.52,673.88
+Asus,Asus_338,Ultrabook,"16.2""",Retina,Intel i3,16GB,512GB SSD,NVIDIA RTX 4060,Windows,Windows 10,2.73,1224.54
+MSI,MSI_730,Gaming,"15.0""",OLED,AMD Ryzen 5,8GB,1TB SSD,NVIDIA RTX 4060,Linux,Linux 5,3.44,1268.61
+Acer,Acer_593,Ultrabook,"16.4""",OLED,Intel i9,8GB,256GB SSD,NVIDIA RTX 3050,macOS,macOS 6,3.36,1161.69
+Samsung,Samsung_663,Workstation,"15.3""",IPS,AMD Ryzen 7,4GB,1TB SSD,NVIDIA RTX 3050,macOS,macOS 8,1.55,1217.0
+Asus,Asus_135,Workstation,"13.7""",Retina,Intel i5,32GB,256GB SSD,NVIDIA RTX 3050,macOS,macOS 5,2.2,1240.02
+HP,HP_523,Ultrabook,"13.0""",Retina,AMD Ryzen 7,16GB,128GB SSD,Integrated,Linux,Linux 10,3.06,1076.65
+Dell,Dell_889,Workstation,"14.5""",LED,Intel i7,32GB,128GB SSD,NVIDIA GTX 1650,Linux,Linux 7,3.1,1372.89
+Dell,Dell_131,Gaming,"17.0""",LED,Intel i7,4GB,256GB SSD,AMD Radeon,Windows,Windows 12,2.21,1115.11
+Lenovo,Lenovo_147,Business,"13.5""",OLED,Intel i9,16GB,128GB SSD,AMD Radeon,Windows,Windows 1,3.04,1107.17
+Acer,Acer_688,Gaming,"15.2""",LED,AMD Ryzen 7,32GB,1TB SSD,Integrated,Windows,Windows 11,1.35,941.69
+Acer,Acer_550,Student,"15.1""",LED,Intel i5,32GB,1TB HDD,Integrated,macOS,macOS 3,3.35,758.17
+Samsung,Samsung_798,Student,"15.4""",OLED,AMD Ryzen 5,16GB,1TB HDD,NVIDIA RTX 4060,Windows,Windows 9,1.63,1195.88
+MSI,MSI_505,Student,"13.0""",OLED,Intel i5,8GB,128GB SSD,NVIDIA RTX 4060,Windows,Windows 1,1.38,1153.44
+Dell,Dell_996,Workstation,"13.4""",LED,Intel i5,16GB,1TB HDD,NVIDIA RTX 3050,macOS,macOS 11,2.47,1672.91
+Acer,Acer_821,Gaming,"16.0""",IPS,Intel i5,4GB,256GB SSD,AMD Radeon,Linux,Linux 5,2.91,1503.78
+Samsung,Samsung_666,Gaming,"15.2""",Retina,Intel i3,32GB,256GB SSD,NVIDIA RTX 4060,Linux,Linux 5,1.13,1211.27
+Apple,Apple_748,Gaming,"16.4""",OLED,Intel i5,32GB,128GB SSD,NVIDIA RTX 4060,Windows,Windows 9,2.52,1097.57
+Samsung,Samsung_766,Student,"14.6""",Retina,Intel i5,8GB,512GB SSD,NVIDIA RTX 3050,Linux,Linux 11,2.63,755.72
+Asus,Asus_952,Business,"14.4""",IPS,Intel i7,8GB,128GB SSD,Integrated,Linux,Linux 3,1.86,614.53
+Dell,Dell_248,Ultrabook,"14.3""",Retina,Intel i7,16GB,1TB SSD,NVIDIA RTX 3050,Windows,Windows 6,2.7,1273.83
+MSI,MSI_392,Ultrabook,"15.2""",LED,Intel i5,4GB,512GB SSD,NVIDIA RTX 4060,macOS,macOS 4,2.7,1008.89
+Dell,Dell_204,Student,"15.7""",LED,Intel i7,8GB,1TB SSD,NVIDIA RTX 3050,macOS,macOS 8,1.78,703.83
+Apple,Apple_571,Business,"17.0""",Retina,Intel i7,4GB,1TB SSD,AMD Radeon,Windows,Windows 2,1.47,945.94
+Samsung,Samsung_609,Business,"16.9""",Retina,Intel i5,16GB,512GB SSD,AMD Radeon,Linux,Linux 10,3.35,860.86
+Dell,Dell_792,Student,"14.8""",LED,Intel i5,32GB,1TB SSD,NVIDIA RTX 4060,Linux,Linux 7,1.27,995.74
+Acer,Acer_700,Business,"13.8""",LED,AMD Ryzen 5,4GB,1TB SSD,Integrated,macOS,macOS 5,2.84,535.88
+MSI,MSI_349,Student,"16.2""",IPS,AMD Ryzen 5,32GB,128GB SSD,NVIDIA GTX 1650,Windows,Windows 6,3.26,754.01
+Samsung,Samsung_463,Student,"15.5""",IPS,Intel i9,16GB,512GB SSD,NVIDIA GTX 1650,macOS,macOS 9,3.36,663.84
+Samsung,Samsung_104,Business,"15.5""",OLED,AMD Ryzen 5,32GB,512GB SSD,AMD Radeon,macOS,macOS 5,1.17,838.69
+Samsung,Samsung_613,Gaming,"16.0""",OLED,AMD Ryzen 7,16GB,1TB SSD,NVIDIA RTX 4060,Linux,Linux 10,2.97,1278.52
+Asus,Asus_537,Student,"17.2""",IPS,Intel i5,4GB,256GB SSD,NVIDIA RTX 4060,Windows,Windows 12,2.31,1018.1
+Acer,Acer_651,Workstation,"15.6""",IPS,Intel i3,16GB,256GB SSD,NVIDIA GTX 1650,Windows,Windows 1,1.19,1528.17
+Acer,Acer_786,Gaming,"14.4""",LED,AMD Ryzen 5,4GB,128GB SSD,AMD Radeon,macOS,macOS 3,1.55,1237.94
+MSI,MSI_171,Workstation,"15.5""",IPS,Intel i7,4GB,128GB SSD,AMD Radeon,Linux,Linux 12,1.3,1538.08
+Dell,Dell_125,Workstation,"14.3""",LED,AMD Ryzen 7,16GB,256GB SSD,NVIDIA GTX 1650,Windows,Windows 9,2.79,1589.84
+Asus,Asus_483,Student,"13.5""",OLED,Intel i7,16GB,1TB SSD,NVIDIA RTX 3050,Windows,Windows 3,1.89,262.94
+Samsung,Samsung_143,Workstation,"14.9""",OLED,Intel i7,8GB,128GB SSD,NVIDIA RTX 3050,Windows,Windows 6,2.69,1728.77
+Acer,Acer_979,Student,"15.4""",Retina,Intel i9,32GB,1TB SSD,AMD Radeon,macOS,macOS 12,2.3,591.78
+Samsung,Samsung_891,Ultrabook,"14.1""",OLED,AMD Ryzen 5,8GB,1TB SSD,NVIDIA RTX 3050,Linux,Linux 10,1.79,1156.24
+Samsung,Samsung_897,Business,"14.4""",LED,AMD Ryzen 5,4GB,1TB HDD,NVIDIA RTX 4060,macOS,macOS 11,3.23,950.85
+Acer,Acer_387,Business,"16.6""",Retina,Intel i5,32GB,128GB SSD,AMD Radeon,macOS,macOS 4,1.54,825.58
+Samsung,Samsung_990,Ultrabook,"16.6""",OLED,Intel i3,32GB,1TB SSD,NVIDIA RTX 4060,Windows,Windows 9,1.53,1154.17
+Lenovo,Lenovo_633,Gaming,"14.7""",Retina,Intel i7,4GB,512GB SSD,NVIDIA GTX 1650,Linux,Linux 9,2.51,1260.38
+MSI,MSI_369,Gaming,"14.9""",OLED,Intel i3,4GB,256GB SSD,NVIDIA RTX 3050,Windows,Windows 5,1.77,750.37
+Apple,Apple_336,Gaming,"16.4""",LED,Intel i3,8GB,256GB SSD,Integrated,Windows,Windows 3,2.51,1452.26
+HP,HP_877,Ultrabook,"14.0""",IPS,AMD Ryzen 5,8GB,1TB HDD,Integrated,macOS,macOS 2,3.32,981.22
+Lenovo,Lenovo_883,Gaming,"13.0""",OLED,AMD Ryzen 5,16GB,256GB SSD,Integrated,Linux,Linux 10,2.47,1178.76
+Asus,Asus_857,Business,"13.3""",OLED,Intel i7,16GB,1TB SSD,NVIDIA RTX 4060,Windows,Windows 11,3.01,758.47
+Asus,Asus_619,Workstation,"13.4""",Retina,Intel i9,8GB,1TB HDD,NVIDIA RTX 4060,Windows,Windows 7,1.53,1357.57
+HP,HP_170,Workstation,"16.7""",IPS,AMD Ryzen 5,4GB,512GB SSD,NVIDIA RTX 4060,Linux,Linux 4,1.4,1765.73
+Lenovo,Lenovo_410,Student,"15.4""",IPS,AMD Ryzen 7,16GB,1TB SSD,NVIDIA GTX 1650,macOS,macOS 2,1.14,762.64
+Apple,Apple_129,Workstation,"14.5""",LED,AMD Ryzen 5,16GB,1TB HDD,NVIDIA RTX 4060,macOS,macOS 4,3.24,1299.56
+Lenovo,Lenovo_649,Student,"15.9""",IPS,Intel i9,4GB,1TB SSD,NVIDIA GTX 1650,macOS,macOS 5,1.39,549.51
+Acer,Acer_686,Workstation,"13.4""",Retina,AMD Ryzen 5,32GB,256GB SSD,AMD Radeon,macOS,macOS 9,1.39,1621.04
+Dell,Dell_952,Workstation,"15.7""",OLED,AMD Ryzen 5,32GB,256GB SSD,NVIDIA RTX 3050,macOS,macOS 2,2.55,1723.09
+Samsung,Samsung_884,Workstation,"14.8""",Retina,Intel i3,16GB,1TB HDD,NVIDIA RTX 4060,Linux,Linux 10,2.31,1460.8
+Lenovo,Lenovo_447,Gaming,"15.8""",IPS,Intel i5,16GB,256GB SSD,NVIDIA GTX 1650,Linux,Linux 10,1.72,867.47
+HP,HP_270,Ultrabook,"16.6""",Retina,Intel i7,8GB,512GB SSD,Integrated,macOS,macOS 2,2.91,898.75
+Samsung,Samsung_480,Business,"16.0""",Retina,Intel i3,4GB,128GB SSD,NVIDIA GTX 1650,Linux,Linux 5,2.63,831.2
+Asus,Asus_633,Gaming,"16.7""",OLED,Intel i7,4GB,256GB SSD,NVIDIA GTX 1650,Windows,Windows 2,2.03,1439.04
+Samsung,Samsung_887,Student,"16.3""",OLED,Intel i9,32GB,512GB SSD,NVIDIA GTX 1650,Linux,Linux 9,3.41,795.64
+Asus,Asus_626,Student,"15.5""",Retina,AMD Ryzen 5,16GB,1TB HDD,NVIDIA GTX 1650,macOS,macOS 5,2.5,825.68
+Apple,Apple_249,Student,"17.3""",LED,AMD Ryzen 7,16GB,1TB HDD,NVIDIA RTX 4060,Windows,Windows 1,3.09,652.1
+Apple,Apple_629,Ultrabook,"14.1""",IPS,Intel i7,32GB,512GB SSD,AMD Radeon,Windows,Windows 8,1.32,987.12
+Apple,Apple_436,Workstation,"16.6""",IPS,AMD Ryzen 7,32GB,1TB SSD,Integrated,Windows,Windows 6,3.3,1485.78
+HP,HP_872,Workstation,"16.8""",OLED,Intel i7,8GB,512GB SSD,Integrated,Windows,Windows 3,1.89,1734.04
+Lenovo,Lenovo_823,Ultrabook,"16.9""",IPS,AMD Ryzen 7,16GB,128GB SSD,NVIDIA GTX 1650,Windows,Windows 5,1.97,1126.86
+Dell,Dell_171,Gaming,"14.4""",OLED,Intel i7,16GB,512GB SSD,AMD Radeon,macOS,macOS 10,1.16,1181.93
+MSI,MSI_157,Workstation,"14.3""",IPS,Intel i5,4GB,1TB SSD,AMD Radeon,Linux,Linux 1,2.58,1695.46
+Lenovo,Lenovo_808,Ultrabook,"13.5""",Retina,AMD Ryzen 5,32GB,128GB SSD,NVIDIA RTX 4060,Linux,Linux 6,3.49,1123.58
+Asus,Asus_287,Gaming,"14.2""",Retina,AMD Ryzen 5,4GB,512GB SSD,NVIDIA RTX 3050,macOS,macOS 10,1.27,1165.73
+HP,HP_398,Workstation,"15.3""",Retina,Intel i7,32GB,512GB SSD,NVIDIA RTX 4060,Linux,Linux 7,1.58,1720.78
+Acer,Acer_709,Ultrabook,"14.2""",LED,AMD Ryzen 7,32GB,128GB SSD,NVIDIA GTX 1650,Windows,Windows 3,3.02,1195.03
+Lenovo,Lenovo_151,Ultrabook,"16.9""",Retina,Intel i3,32GB,256GB SSD,NVIDIA RTX 4060,Linux,Linux 3,3.28,894.73
+Acer,Acer_359,Ultrabook,"17.0""",OLED,AMD Ryzen 7,8GB,512GB SSD,NVIDIA RTX 4060,macOS,macOS 9,1.63,1346.0
+MSI,MSI_597,Student,"15.5""",IPS,Intel i5,4GB,1TB HDD,NVIDIA RTX 3050,Windows,Windows 4,1.42,699.77
+Lenovo,Lenovo_819,Student,"14.7""",OLED,AMD Ryzen 7,32GB,128GB SSD,NVIDIA RTX 3050,macOS,macOS 10,2.53,555.59
+Asus,Asus_675,Student,"14.7""",Retina,Intel i3,8GB,128GB SSD,NVIDIA GTX 1650,Windows,Windows 9,1.45,736.35
+HP,HP_841,Ultrabook,"14.5""",IPS,Intel i9,4GB,1TB SSD,NVIDIA GTX 1650,Windows,Windows 4,1.52,758.14
+HP,HP_359,Gaming,"13.2""",LED,Intel i3,4GB,512GB SSD,AMD Radeon,Linux,Linux 4,2.35,1224.78
+Acer,Acer_476,Business,"13.7""",IPS,Intel i7,16GB,512GB SSD,NVIDIA RTX 3050,Linux,Linux 4,2.54,741.66
+MSI,MSI_403,Business,"15.0""",IPS,Intel i9,8GB,512GB SSD,NVIDIA GTX 1650,macOS,macOS 4,2.96,939.1
+Dell,Dell_482,Business,"17.2""",LED,AMD Ryzen 5,8GB,1TB SSD,NVIDIA RTX 3050,Windows,Windows 2,2.45,880.23
+Asus,Asus_641,Gaming,"16.8""",LED,AMD Ryzen 5,32GB,512GB SSD,Integrated,macOS,macOS 5,1.03,1272.1
+Asus,Asus_370,Business,"15.8""",IPS,Intel i9,8GB,256GB SSD,NVIDIA RTX 3050,Linux,Linux 11,2.15,605.4
+Acer,Acer_520,Business,"14.9""",OLED,Intel i5,16GB,1TB SSD,NVIDIA RTX 3050,macOS,macOS 4,1.88,950.51
+Apple,Apple_482,Business,"16.4""",IPS,AMD Ryzen 5,16GB,512GB SSD,NVIDIA RTX 4060,Linux,Linux 7,2.2,1176.91
+HP,HP_528,Workstation,"15.6""",LED,AMD Ryzen 5,32GB,512GB SSD,NVIDIA GTX 1650,Linux,Linux 7,1.93,1586.22
+Asus,Asus_134,Student,"14.7""",IPS,AMD Ryzen 5,16GB,512GB SSD,NVIDIA GTX 1650,Linux,Linux 4,1.02,572.94
+Lenovo,Lenovo_656,Workstation,"17.3""",IPS,Intel i9,8GB,1TB HDD,AMD Radeon,Windows,Windows 7,1.25,1920.73
+Dell,Dell_365,Ultrabook,"15.5""",Retina,Intel i3,4GB,256GB SSD,NVIDIA RTX 4060,Windows,Windows 1,2.99,1219.28
+Acer,Acer_467,Gaming,"13.7""",OLED,Intel i7,8GB,1TB HDD,NVIDIA RTX 3050,Windows,Windows 2,3.32,1147.49
+Lenovo,Lenovo_543,Gaming,"13.2""",Retina,Intel i7,32GB,128GB SSD,NVIDIA RTX 4060,Windows,Windows 4,1.44,1099.73
+HP,HP_422,Business,"15.6""",Retina,AMD Ryzen 7,4GB,1TB HDD,AMD Radeon,Windows,Windows 4,1.45,1024.15
+MSI,MSI_912,Business,"14.4""",Retina,AMD Ryzen 5,8GB,128GB SSD,NVIDIA RTX 3050,Linux,Linux 3,1.81,1108.04
+HP,HP_849,Workstation,"14.0""",IPS,Intel i3,16GB,512GB SSD,NVIDIA RTX 3050,macOS,macOS 12,2.83,1842.41
+Lenovo,Lenovo_639,Ultrabook,"13.3""",LED,Intel i3,4GB,256GB SSD,NVIDIA RTX 3050,macOS,macOS 3,2.15,750.47
+Acer,Acer_944,Student,"17.3""",Retina,Intel i9,32GB,512GB SSD,NVIDIA RTX 4060,Windows,Windows 8,1.4,583.64
+Samsung,Samsung_442,Ultrabook,"16.0""",Retina,AMD Ryzen 7,4GB,512GB SSD,NVIDIA GTX 1650,Linux,Linux 1,2.64,865.22
+MSI,MSI_958,Workstation,"14.0""",Retina,Intel i7,16GB,512GB SSD,NVIDIA GTX 1650,Linux,Linux 2,1.11,1291.51
+Asus,Asus_208,Gaming,"16.4""",LED,AMD Ryzen 5,4GB,128GB SSD,NVIDIA RTX 4060,Windows,Windows 6,2.05,1445.28
+Dell,Dell_127,Gaming,"13.8""",LED,Intel i5,4GB,512GB SSD,Integrated,Windows,Windows 6,1.23,1064.23
+Lenovo,Lenovo_602,Workstation,"15.0""",Retina,Intel i7,8GB,128GB SSD,NVIDIA RTX 4060,Windows,Windows 8,2.3,1437.73
+Acer,Acer_100,Student,"14.2""",IPS,Intel i9,8GB,512GB SSD,NVIDIA GTX 1650,Windows,Windows 2,2.57,788.42
+Acer,Acer_598,Gaming,"15.5""",OLED,Intel i3,8GB,1TB SSD,NVIDIA GTX 1650,macOS,macOS 9,2.39,1444.23
+Acer,Acer_120,Business,"13.3""",IPS,Intel i7,16GB,256GB SSD,NVIDIA GTX 1650,macOS,macOS 9,1.53,756.2
+Dell,Dell_578,Student,"15.8""",IPS,AMD Ryzen 5,4GB,256GB SSD,NVIDIA RTX 4060,Windows,Windows 3,2.39,387.38
+Asus,Asus_346,Workstation,"15.4""",LED,Intel i5,4GB,1TB HDD,NVIDIA RTX 4060,macOS,macOS 10,1.52,1569.53
+MSI,MSI_465,Gaming,"13.6""",OLED,Intel i7,4GB,1TB HDD,NVIDIA GTX 1650,Windows,Windows 4,2.25,1015.7
+Apple,Apple_648,Business,"16.9""",IPS,Intel i9,16GB,256GB SSD,NVIDIA RTX 4060,Linux,Linux 7,3.44,1011.94
+Acer,Acer_278,Workstation,"16.3""",IPS,Intel i5,32GB,1TB SSD,Integrated,Windows,Windows 2,3.41,1537.51
+HP,HP_970,Student,"13.9""",LED,Intel i7,8GB,512GB SSD,NVIDIA GTX 1650,Linux,Linux 6,1.78,451.16
+Apple,Apple_566,Gaming,"14.6""",IPS,Intel i9,16GB,512GB SSD,Integrated,Linux,Linux 6,2.6,1532.86
+Acer,Acer_566,Gaming,"13.3""",OLED,AMD Ryzen 7,32GB,512GB SSD,NVIDIA GTX 1650,Linux,Linux 10,2.36,1059.87
+Acer,Acer_314,Workstation,"14.4""",OLED,Intel i3,8GB,512GB SSD,NVIDIA GTX 1650,Linux,Linux 3,1.77,1676.53
+Apple,Apple_998,Ultrabook,"16.7""",LED,Intel i7,8GB,1TB HDD,NVIDIA RTX 3050,Linux,Linux 4,1.72,1226.24
+Asus,Asus_996,Workstation,"16.2""",Retina,AMD Ryzen 7,32GB,512GB SSD,NVIDIA RTX 3050,Linux,Linux 6,1.77,1617.91
+MSI,MSI_382,Gaming,"15.0""",LED,Intel i9,16GB,128GB SSD,NVIDIA RTX 3050,Linux,Linux 10,2.37,1320.62
+Dell,Dell_798,Gaming,"15.0""",IPS,Intel i7,32GB,512GB SSD,NVIDIA RTX 4060,macOS,macOS 1,1.76,1029.89
+Apple,Apple_762,Business,"14.8""",LED,Intel i5,16GB,512GB SSD,NVIDIA GTX 1650,Linux,Linux 8,2.74,1091.74
+HP,HP_587,Workstation,"13.6""",LED,Intel i9,4GB,1TB HDD,Integrated,macOS,macOS 12,2.32,1568.38
+Asus,Asus_197,Business,"14.9""",IPS,AMD Ryzen 5,4GB,512GB SSD,NVIDIA GTX 1650,Windows,Windows 5,2.66,589.31
+Asus,Asus_544,Workstation,"16.5""",IPS,Intel i5,8GB,128GB SSD,NVIDIA RTX 3050,Windows,Windows 10,1.12,1849.17
+Apple,Apple_696,Business,"16.2""",IPS,Intel i3,4GB,1TB HDD,NVIDIA RTX 4060,Linux,Linux 9,2.43,1126.25
+HP,HP_364,Ultrabook,"16.9""",Retina,AMD Ryzen 7,8GB,256GB SSD,AMD Radeon,macOS,macOS 11,1.17,1086.69
+HP,HP_426,Gaming,"14.0""",IPS,Intel i9,32GB,1TB HDD,NVIDIA GTX 1650,Linux,Linux 11,2.86,1004.89
+MSI,MSI_327,Student,"17.3""",Retina,Intel i5,16GB,256GB SSD,NVIDIA GTX 1650,Windows,Windows 8,3.01,855.06
+Asus,Asus_212,Workstation,"16.0""",IPS,Intel i5,4GB,256GB SSD,NVIDIA RTX 3050,macOS,macOS 10,2.34,1629.45
+Acer,Acer_569,Business,"15.3""",LED,Intel i3,32GB,256GB SSD,NVIDIA RTX 3050,Windows,Windows 5,2.34,528.25
+Dell,Dell_862,Student,"17.1""",Retina,Intel i7,8GB,1TB SSD,NVIDIA RTX 3050,macOS,macOS 8,1.77,543.6
+MSI,MSI_182,Gaming,"14.3""",OLED,AMD Ryzen 7,8GB,1TB HDD,NVIDIA RTX 3050,macOS,macOS 3,1.83,1048.06
+HP,HP_642,Business,"14.3""",IPS,AMD Ryzen 7,8GB,128GB SSD,NVIDIA RTX 3050,Linux,Linux 3,1.82,1241.97
+Samsung,Samsung_591,Ultrabook,"16.7""",Retina,Intel i5,32GB,1TB SSD,Integrated,macOS,macOS 11,1.04,1066.26
+Lenovo,Lenovo_634,Student,"15.6""",Retina,Intel i5,8GB,1TB HDD,NVIDIA RTX 4060,macOS,macOS 7,2.48,513.17
+Dell,Dell_584,Student,"16.4""",Retina,Intel i3,32GB,128GB SSD,AMD Radeon,macOS,macOS 6,2.98,822.79
+Acer,Acer_144,Gaming,"13.2""",LED,AMD Ryzen 5,16GB,1TB SSD,NVIDIA RTX 3050,macOS,macOS 1,1.11,1120.46
+Dell,Dell_168,Workstation,"15.2""",LED,Intel i3,32GB,1TB HDD,NVIDIA GTX 1650,Linux,Linux 3,1.48,1263.19
+HP,HP_708,Gaming,"15.3""",OLED,Intel i7,8GB,256GB SSD,NVIDIA RTX 3050,Linux,Linux 9,1.84,1407.22
+MSI,MSI_109,Business,"15.6""",Retina,AMD Ryzen 5,8GB,1TB SSD,Integrated,Windows,Windows 10,3.42,615.41
+MSI,MSI_781,Ultrabook,"15.8""",Retina,Intel i3,32GB,512GB SSD,NVIDIA RTX 4060,Windows,Windows 11,3.0,1034.41
+MSI,MSI_543,Business,"14.4""",LED,Intel i3,4GB,512GB SSD,AMD Radeon,macOS,macOS 9,1.2,1060.22
+Samsung,Samsung_465,Gaming,"13.4""",IPS,Intel i3,8GB,128GB SSD,NVIDIA RTX 4060,macOS,macOS 8,1.77,1263.9
+MSI,MSI_251,Business,"15.3""",LED,Intel i5,32GB,1TB SSD,AMD Radeon,Windows,Windows 2,1.5,1230.72
+Acer,Acer_532,Workstation,"14.5""",LED,Intel i7,32GB,512GB SSD,NVIDIA RTX 4060,Windows,Windows 11,2.16,1648.78
+Apple,Apple_637,Gaming,"16.0""",LED,Intel i9,4GB,256GB SSD,AMD Radeon,Linux,Linux 2,3.29,1033.46
+Lenovo,Lenovo_372,Student,"16.3""",IPS,Intel i7,16GB,128GB SSD,NVIDIA GTX 1650,Linux,Linux 8,2.98,731.93
+Acer,Acer_967,Workstation,"16.2""",IPS,Intel i3,4GB,256GB SSD,NVIDIA GTX 1650,Windows,Windows 7,1.89,1614.28
+Samsung,Samsung_247,Gaming,"13.9""",LED,Intel i5,8GB,128GB SSD,NVIDIA GTX 1650,Windows,Windows 4,1.54,1182.51
+Acer,Acer_660,Student,"17.1""",IPS,AMD Ryzen 5,8GB,256GB SSD,NVIDIA RTX 4060,macOS,macOS 5,1.51,809.66
+Apple,Apple_677,Business,"17.2""",OLED,AMD Ryzen 5,16GB,128GB SSD,NVIDIA RTX 4060,macOS,macOS 4,3.14,897.48
+Samsung,Samsung_421,Student,"14.8""",OLED,Intel i5,32GB,1TB HDD,AMD Radeon,macOS,macOS 2,1.82,844.54
+Lenovo,Lenovo_345,Workstation,"14.7""",OLED,Intel i7,8GB,1TB SSD,NVIDIA RTX 3050,Windows,Windows 11,1.21,1774.96
+MSI,MSI_291,Ultrabook,"13.7""",OLED,AMD Ryzen 5,4GB,128GB SSD,NVIDIA RTX 3050,Windows,Windows 6,1.53,880.64
+Asus,Asus_939,Workstation,"16.6""",LED,Intel i5,32GB,1TB HDD,NVIDIA RTX 3050,Linux,Linux 7,2.8,1509.86
+Acer,Acer_645,Gaming,"16.5""",IPS,Intel i3,16GB,512GB SSD,Integrated,Linux,Linux 4,1.44,1353.77
+HP,HP_205,Workstation,"15.7""",Retina,Intel i5,4GB,512GB SSD,NVIDIA GTX 1650,Windows,Windows 10,2.48,1613.62
+MSI,MSI_540,Student,"15.1""",Retina,Intel i5,16GB,1TB SSD,AMD Radeon,macOS,macOS 5,3.01,490.07
+Samsung,Samsung_903,Workstation,"14.7""",IPS,AMD Ryzen 7,32GB,256GB SSD,AMD Radeon,macOS,macOS 5,1.34,1197.02
+HP,HP_521,Workstation,"15.0""",Retina,Intel i5,16GB,256GB SSD,Integrated,Linux,Linux 2,1.16,1339.79
+Lenovo,Lenovo_365,Workstation,"15.2""",IPS,Intel i3,8GB,128GB SSD,NVIDIA RTX 3050,macOS,macOS 8,2.88,1738.61
+HP,HP_382,Business,"15.2""",Retina,Intel i5,32GB,256GB SSD,NVIDIA GTX 1650,Windows,Windows 11,2.98,870.19
+Dell,Dell_279,Workstation,"16.1""",OLED,Intel i3,4GB,256GB SSD,NVIDIA GTX 1650,Linux,Linux 1,1.98,1700.13
+Asus,Asus_857,Business,"14.4""",Retina,AMD Ryzen 5,8GB,1TB SSD,AMD Radeon,macOS,macOS 7,2.92,964.74
+Lenovo,Lenovo_293,Business,"15.4""",IPS,AMD Ryzen 5,32GB,128GB SSD,NVIDIA RTX 4060,macOS,macOS 3,2.71,716.43
+Lenovo,Lenovo_409,Gaming,"13.4""",LED,AMD Ryzen 5,4GB,256GB SSD,Integrated,Windows,Windows 10,2.37,1070.9
+Asus,Asus_438,Workstation,"13.9""",Retina,Intel i7,8GB,256GB SSD,NVIDIA RTX 4060,macOS,macOS 11,2.86,1726.23
+Apple,Apple_357,Workstation,"14.7""",LED,Intel i9,32GB,1TB SSD,Integrated,Linux,Linux 5,2.34,1520.59
+Lenovo,Lenovo_429,Student,"15.7""",IPS,AMD Ryzen 7,8GB,256GB SSD,NVIDIA RTX 4060,Linux,Linux 4,2.89,392.48
+HP,HP_520,Workstation,"14.9""",IPS,AMD Ryzen 5,4GB,512GB SSD,AMD Radeon,Linux,Linux 11,1.51,1471.02
+Asus,Asus_354,Student,"16.6""",OLED,AMD Ryzen 5,8GB,128GB SSD,NVIDIA RTX 4060,macOS,macOS 5,1.75,701.29
+Asus,Asus_855,Student,"16.6""",IPS,Intel i5,8GB,256GB SSD,AMD Radeon,Linux,Linux 10,2.22,588.53
+HP,HP_689,Ultrabook,"17.0""",Retina,AMD Ryzen 5,4GB,128GB SSD,AMD Radeon,Linux,Linux 10,1.08,947.19
+Asus,Asus_694,Ultrabook,"13.9""",LED,Intel i9,16GB,256GB SSD,NVIDIA RTX 4060,Windows,Windows 7,1.94,887.0
+Apple,Apple_200,Ultrabook,"15.8""",IPS,Intel i5,16GB,512GB SSD,Integrated,Linux,Linux 2,2.89,1411.76
+Asus,Asus_533,Student,"14.0""",Retina,Intel i9,4GB,256GB SSD,NVIDIA GTX 1650,Windows,Windows 7,2.66,393.91
+Dell,Dell_467,Ultrabook,"13.2""",OLED,AMD Ryzen 7,8GB,256GB SSD,Integrated,macOS,macOS 6,2.99,1058.76
+Apple,Apple_298,Business,"17.0""",Retina,AMD Ryzen 7,16GB,512GB SSD,NVIDIA RTX 3050,macOS,macOS 7,3.27,819.96
+Apple,Apple_573,Gaming,"16.4""",OLED,Intel i7,32GB,1TB SSD,NVIDIA RTX 4060,Linux,Linux 6,2.72,1009.83
+Asus,Asus_923,Student,"16.8""",OLED,Intel i5,16GB,1TB HDD,NVIDIA RTX 4060,Linux,Linux 7,3.43,664.23
+Asus,Asus_244,Business,"16.6""",OLED,AMD Ryzen 7,4GB,256GB SSD,NVIDIA RTX 4060,Linux,Linux 12,1.57,803.17
+HP,HP_805,Workstation,"13.0""",Retina,Intel i5,4GB,1TB HDD,AMD Radeon,macOS,macOS 10,1.64,1306.75
+Lenovo,Lenovo_543,Ultrabook,"15.2""",IPS,Intel i9,4GB,1TB HDD,AMD Radeon,Windows,Windows 9,1.12,1235.08
+Lenovo,Lenovo_674,Ultrabook,"16.4""",IPS,AMD Ryzen 5,8GB,128GB SSD,AMD Radeon,Linux,Linux 1,3.47,1073.47
+Apple,Apple_365,Gaming,"16.8""",LED,Intel i7,4GB,1TB SSD,NVIDIA RTX 4060,macOS,macOS 6,3.23,1160.07
+MSI,MSI_809,Gaming,"14.2""",Retina,Intel i3,4GB,1TB HDD,NVIDIA RTX 3050,macOS,macOS 5,1.98,858.57
+Samsung,Samsung_422,Gaming,"14.9""",LED,AMD Ryzen 5,16GB,1TB SSD,NVIDIA RTX 4060,Windows,Windows 2,1.76,1359.57
+MSI,MSI_300,Gaming,"15.7""",OLED,Intel i7,32GB,256GB SSD,NVIDIA GTX 1650,Linux,Linux 4,2.97,828.13
+Lenovo,Lenovo_357,Student,"16.2""",IPS,Intel i5,4GB,512GB SSD,Integrated,Linux,Linux 4,1.24,684.72
+Samsung,Samsung_113,Workstation,"15.2""",IPS,Intel i7,32GB,256GB SSD,Integrated,macOS,macOS 8,3.04,1470.5
+MSI,MSI_308,Gaming,"14.5""",Retina,Intel i3,16GB,1TB SSD,NVIDIA RTX 4060,Windows,Windows 3,2.44,1414.65
+Dell,Dell_824,Gaming,"16.2""",LED,Intel i7,16GB,1TB SSD,NVIDIA GTX 1650,macOS,macOS 11,2.77,1090.64
+Lenovo,Lenovo_778,Gaming,"15.4""",Retina,AMD Ryzen 7,16GB,256GB SSD,NVIDIA RTX 4060,macOS,macOS 12,2.14,1399.53
+Acer,Acer_299,Ultrabook,"17.1""",IPS,AMD Ryzen 7,32GB,1TB SSD,NVIDIA RTX 4060,Windows,Windows 12,1.8,1042.64
+Lenovo,Lenovo_817,Student,"14.0""",OLED,Intel i9,16GB,128GB SSD,Integrated,Linux,Linux 9,1.12,715.76
+HP,HP_457,Student,"17.2""",LED,Intel i5,8GB,1TB SSD,NVIDIA GTX 1650,Windows,Windows 4,2.01,733.47
+Dell,Dell_578,Ultrabook,"15.6""",OLED,Intel i5,8GB,256GB SSD,AMD Radeon,macOS,macOS 3,1.53,1072.19
+Lenovo,Lenovo_614,Business,"13.5""",IPS,Intel i9,4GB,128GB SSD,AMD Radeon,macOS,macOS 4,1.22,1141.02
+Samsung,Samsung_628,Student,"13.9""",IPS,Intel i5,4GB,512GB SSD,AMD Radeon,Linux,Linux 5,1.98,574.0
+Samsung,Samsung_787,Ultrabook,"14.1""",Retina,Intel i3,32GB,1TB HDD,NVIDIA RTX 4060,macOS,macOS 11,2.61,1246.39
+Apple,Apple_843,Gaming,"13.3""",IPS,Intel i5,4GB,1TB HDD,NVIDIA RTX 4060,macOS,macOS 4,1.44,1167.0
+Lenovo,Lenovo_538,Ultrabook,"14.3""",LED,Intel i9,32GB,1TB HDD,NVIDIA RTX 4060,Linux,Linux 7,1.13,1316.54
+Dell,Dell_792,Workstation,"15.6""",Retina,Intel i5,4GB,128GB SSD,AMD Radeon,Linux,Linux 3,1.65,1858.25
+Asus,Asus_283,Business,"15.7""",LED,Intel i7,32GB,512GB SSD,AMD Radeon,Linux,Linux 2,3.32,929.47
+MSI,MSI_515,Student,"14.4""",LED,Intel i3,32GB,128GB SSD,AMD Radeon,Linux,Linux 6,2.77,745.41
+HP,HP_313,Student,"13.5""",Retina,Intel i3,4GB,1TB HDD,Integrated,Windows,Windows 6,3.02,635.19
+Asus,Asus_885,Workstation,"16.7""",OLED,Intel i5,16GB,256GB SSD,NVIDIA RTX 3050,macOS,macOS 7,1.41,1515.76
+Dell,Dell_563,Ultrabook,"16.9""",Retina,AMD Ryzen 5,16GB,1TB HDD,NVIDIA RTX 4060,Windows,Windows 11,1.79,1310.78
+Asus,Asus_227,Business,"16.9""",OLED,AMD Ryzen 7,4GB,1TB SSD,NVIDIA GTX 1650,Windows,Windows 10,2.27,1043.15
+Acer,Acer_736,Business,"14.5""",Retina,AMD Ryzen 7,16GB,1TB HDD,NVIDIA RTX 4060,Linux,Linux 1,3.5,923.9
+Lenovo,Lenovo_510,Gaming,"16.6""",OLED,AMD Ryzen 7,8GB,256GB SSD,NVIDIA RTX 3050,Linux,Linux 2,3.2,1792.62
+Apple,Apple_714,Gaming,"16.9""",LED,Intel i9,16GB,512GB SSD,NVIDIA GTX 1650,macOS,macOS 12,2.48,1415.13
+HP,HP_680,Gaming,"14.8""",Retina,AMD Ryzen 7,4GB,256GB SSD,NVIDIA GTX 1650,macOS,macOS 5,1.17,1186.37
+HP,HP_488,Business,"15.9""",IPS,Intel i5,8GB,1TB SSD,NVIDIA GTX 1650,Windows,Windows 11,1.26,946.02
+Samsung,Samsung_520,Ultrabook,"16.7""",OLED,AMD Ryzen 5,32GB,512GB SSD,AMD Radeon,macOS,macOS 6,2.84,1655.26
+Acer,Acer_273,Gaming,"16.8""",Retina,Intel i3,4GB,1TB HDD,NVIDIA RTX 3050,macOS,macOS 5,2.9,1207.94
+Apple,Apple_363,Business,"15.6""",LED,Intel i3,4GB,128GB SSD,NVIDIA GTX 1650,macOS,macOS 6,1.47,801.65
+Acer,Acer_938,Gaming,"16.6""",Retina,AMD Ryzen 7,32GB,1TB HDD,Integrated,Windows,Windows 9,1.71,1102.89
+Lenovo,Lenovo_315,Workstation,"13.1""",OLED,Intel i3,16GB,1TB SSD,NVIDIA RTX 4060,Linux,Linux 5,3.23,1276.15
+HP,HP_913,Business,"15.9""",IPS,Intel i7,4GB,256GB SSD,NVIDIA GTX 1650,Windows,Windows 6,1.82,1096.12
+Acer,Acer_736,Business,"15.7""",LED,Intel i5,8GB,256GB SSD,NVIDIA GTX 1650,macOS,macOS 5,2.24,880.37
+Dell,Dell_308,Ultrabook,"17.1""",Retina,AMD Ryzen 5,8GB,128GB SSD,NVIDIA RTX 3050,macOS,macOS 7,1.44,1144.18
+Acer,Acer_591,Workstation,"16.9""",IPS,Intel i5,16GB,1TB SSD,NVIDIA RTX 4060,Linux,Linux 1,1.63,1534.38
+HP,HP_878,Gaming,"16.2""",OLED,Intel i9,16GB,1TB HDD,NVIDIA RTX 3050,Windows,Windows 10,1.01,1383.71
+HP,HP_202,Gaming,"14.5""",OLED,Intel i7,16GB,512GB SSD,NVIDIA RTX 4060,Linux,Linux 1,3.24,1258.65
+Dell,Dell_994,Student,"15.3""",IPS,Intel i9,32GB,1TB SSD,AMD Radeon,Windows,Windows 12,1.47,551.45
+Samsung,Samsung_897,Student,"13.6""",IPS,Intel i5,16GB,128GB SSD,AMD Radeon,Linux,Linux 6,2.13,844.54
+Apple,Apple_775,Student,"17.0""",IPS,Intel i5,8GB,128GB SSD,NVIDIA GTX 1650,macOS,macOS 2,2.69,799.32
+Samsung,Samsung_911,Workstation,"13.2""",IPS,Intel i3,32GB,1TB SSD,NVIDIA RTX 3050,Windows,Windows 1,1.41,1718.1
+Lenovo,Lenovo_964,Ultrabook,"14.0""",LED,Intel i7,32GB,256GB SSD,NVIDIA RTX 3050,Windows,Windows 3,3.14,1339.98
+HP,HP_755,Student,"15.7""",OLED,AMD Ryzen 7,16GB,1TB SSD,NVIDIA RTX 3050,Windows,Windows 1,1.25,837.72
+Asus,Asus_912,Business,"16.2""",IPS,Intel i9,32GB,256GB SSD,Integrated,macOS,macOS 9,1.01,884.14
+HP,HP_561,Gaming,"14.1""",Retina,Intel i5,4GB,1TB HDD,NVIDIA RTX 4060,macOS,macOS 2,1.37,1092.47
+Acer,Acer_998,Ultrabook,"16.7""",LED,AMD Ryzen 7,4GB,256GB SSD,NVIDIA GTX 1650,macOS,macOS 4,3.05,1231.08
+Dell,Dell_412,Workstation,"14.1""",LED,Intel i3,32GB,1TB SSD,AMD Radeon,macOS,macOS 12,2.58,1514.72
+Lenovo,Lenovo_641,Business,"14.2""",OLED,Intel i5,4GB,1TB HDD,Integrated,macOS,macOS 2,3.45,872.47
+Acer,Acer_679,Gaming,"16.0""",OLED,Intel i9,16GB,128GB SSD,NVIDIA GTX 1650,Windows,Windows 6,1.14,1241.89
+HP,HP_451,Business,"14.3""",IPS,Intel i5,8GB,1TB SSD,NVIDIA GTX 1650,Linux,Linux 9,2.88,703.09
+Acer,Acer_170,Ultrabook,"17.3""",LED,Intel i3,8GB,1TB HDD,NVIDIA RTX 3050,macOS,macOS 1,3.22,1445.98
+MSI,MSI_453,Business,"13.7""",Retina,Intel i9,8GB,1TB SSD,AMD Radeon,Linux,Linux 2,1.86,604.6
+Asus,Asus_991,Business,"13.7""",IPS,Intel i7,32GB,128GB SSD,NVIDIA RTX 3050,Windows,Windows 11,2.91,911.17
+Acer,Acer_182,Business,"13.0""",OLED,Intel i9,4GB,128GB SSD,NVIDIA RTX 3050,Windows,Windows 3,1.67,838.07
+Samsung,Samsung_890,Business,"13.8""",Retina,AMD Ryzen 5,8GB,1TB SSD,AMD Radeon,Windows,Windows 1,2.04,1020.02
+Dell,Dell_718,Gaming,"15.1""",LED,AMD Ryzen 5,8GB,256GB SSD,AMD Radeon,Linux,Linux 1,2.2,1120.96
+Dell,Dell_852,Business,"16.9""",LED,Intel i5,8GB,256GB SSD,NVIDIA GTX 1650,Linux,Linux 9,2.23,867.78
+Asus,Asus_285,Business,"15.3""",OLED,AMD Ryzen 7,8GB,512GB SSD,NVIDIA GTX 1650,Windows,Windows 5,2.12,625.13
+Asus,Asus_794,Ultrabook,"13.2""",Retina,Intel i5,4GB,1TB HDD,NVIDIA GTX 1650,Linux,Linux 10,2.05,928.77
+Samsung,Samsung_542,Gaming,"16.1""",LED,Intel i3,32GB,1TB SSD,AMD Radeon,Linux,Linux 11,1.72,1207.11
+Apple,Apple_228,Ultrabook,"13.0""",IPS,Intel i5,32GB,1TB HDD,Integrated,macOS,macOS 5,1.62,1279.51
+Acer,Acer_128,Ultrabook,"15.7""",OLED,Intel i9,16GB,256GB SSD,Integrated,Linux,Linux 10,1.26,1326.04
+Samsung,Samsung_163,Ultrabook,"14.5""",OLED,Intel i5,8GB,512GB SSD,NVIDIA GTX 1650,Windows,Windows 3,2.63,1162.3
+HP,HP_492,Workstation,"16.5""",IPS,Intel i7,8GB,512GB SSD,NVIDIA RTX 4060,Windows,Windows 1,3.27,1322.87
+Samsung,Samsung_605,Student,"13.9""",OLED,Intel i9,8GB,1TB HDD,Integrated,Windows,Windows 11,1.46,304.59
+MSI,MSI_772,Workstation,"17.2""",Retina,Intel i7,16GB,128GB SSD,NVIDIA GTX 1650,Windows,Windows 11,3.33,1716.83
+MSI,MSI_200,Workstation,"14.5""",Retina,AMD Ryzen 5,4GB,1TB HDD,NVIDIA RTX 4060,Linux,Linux 6,2.67,1567.67
+HP,HP_553,Gaming,"13.6""",IPS,Intel i3,16GB,1TB HDD,AMD Radeon,Linux,Linux 12,2.52,1104.59
+Dell,Dell_470,Ultrabook,"15.2""",IPS,Intel i5,8GB,1TB HDD,Integrated,Linux,Linux 6,3.04,1100.32
+Samsung,Samsung_203,Gaming,"13.6""",LED,Intel i9,32GB,256GB SSD,NVIDIA RTX 4060,Windows,Windows 10,3.14,1282.95
+Acer,Acer_355,Student,"13.6""",LED,Intel i5,4GB,1TB SSD,NVIDIA RTX 3050,macOS,macOS 4,1.24,515.31
+HP,HP_379,Business,"13.5""",OLED,Intel i9,8GB,1TB HDD,NVIDIA RTX 4060,Linux,Linux 3,1.4,668.2
+HP,HP_640,Workstation,"13.5""",IPS,Intel i3,4GB,1TB HDD,Integrated,Linux,Linux 9,1.9,1590.46
+Acer,Acer_886,Workstation,"15.1""",IPS,Intel i5,16GB,128GB SSD,NVIDIA GTX 1650,Windows,Windows 1,3.34,1063.33
+Acer,Acer_116,Ultrabook,"14.0""",OLED,AMD Ryzen 5,8GB,1TB SSD,Integrated,macOS,macOS 10,2.93,1143.93
+Asus,Asus_864,Gaming,"13.2""",Retina,Intel i7,8GB,1TB SSD,NVIDIA RTX 3050,Windows,Windows 5,3.41,1137.88
+Apple,Apple_884,Gaming,"15.1""",OLED,Intel i9,4GB,256GB SSD,Integrated,Windows,Windows 6,2.05,1064.93
+Dell,Dell_200,Workstation,"16.2""",OLED,AMD Ryzen 5,8GB,128GB SSD,NVIDIA GTX 1650,macOS,macOS 7,1.88,1731.06
+HP,HP_642,Ultrabook,"16.9""",LED,Intel i3,8GB,1TB SSD,NVIDIA GTX 1650,Windows,Windows 6,2.84,1078.84
+Acer,Acer_136,Business,"15.1""",OLED,Intel i9,8GB,256GB SSD,NVIDIA RTX 3050,macOS,macOS 5,1.28,891.89
+Lenovo,Lenovo_878,Gaming,"16.4""",Retina,AMD Ryzen 7,16GB,512GB SSD,NVIDIA RTX 4060,Linux,Linux 11,1.94,1249.56
+HP,HP_463,Business,"15.7""",Retina,Intel i9,8GB,256GB SSD,NVIDIA RTX 3050,macOS,macOS 3,2.17,1220.26
+Samsung,Samsung_805,Ultrabook,"16.2""",OLED,AMD Ryzen 5,8GB,256GB SSD,NVIDIA GTX 1650,Linux,Linux 9,3.37,1336.31
+Asus,Asus_177,Student,"15.9""",IPS,AMD Ryzen 5,8GB,512GB SSD,NVIDIA RTX 3050,macOS,macOS 5,1.39,1168.73
+Apple,Apple_579,Business,"16.1""",IPS,Intel i9,32GB,128GB SSD,Integrated,Linux,Linux 3,1.14,793.15
+Lenovo,Lenovo_194,Business,"16.8""",LED,Intel i7,32GB,1TB SSD,NVIDIA RTX 4060,Windows,Windows 2,1.8,930.18
+MSI,MSI_948,Student,"14.7""",LED,Intel i3,32GB,512GB SSD,NVIDIA RTX 3050,macOS,macOS 8,2.74,941.22
+MSI,MSI_814,Gaming,"17.0""",Retina,Intel i3,16GB,1TB SSD,NVIDIA RTX 4060,Linux,Linux 7,3.24,1321.84
+Lenovo,Lenovo_569,Business,"13.4""",IPS,Intel i5,32GB,512GB SSD,NVIDIA GTX 1650,macOS,macOS 2,2.97,1041.63
+Asus,Asus_555,Student,"14.5""",IPS,Intel i3,4GB,256GB SSD,NVIDIA GTX 1650,Windows,Windows 5,3.0,766.23
+MSI,MSI_191,Student,"13.2""",IPS,Intel i5,8GB,1TB SSD,NVIDIA GTX 1650,macOS,macOS 12,1.98,865.42
+Lenovo,Lenovo_975,Business,"17.2""",OLED,Intel i9,16GB,512GB SSD,AMD Radeon,Linux,Linux 2,2.36,931.59
+HP,HP_620,Ultrabook,"15.6""",Retina,AMD Ryzen 5,8GB,128GB SSD,NVIDIA RTX 4060,macOS,macOS 12,2.39,1035.42
+Lenovo,Lenovo_715,Business,"14.7""",OLED,Intel i7,16GB,1TB SSD,AMD Radeon,Linux,Linux 1,3.21,1018.9
+Lenovo,Lenovo_897,Ultrabook,"13.8""",LED,Intel i7,32GB,256GB SSD,NVIDIA RTX 4060,macOS,macOS 6,1.24,1296.54
+Acer,Acer_357,Gaming,"15.9""",IPS,Intel i3,8GB,256GB SSD,NVIDIA RTX 4060,Linux,Linux 8,1.64,919.99
+Apple,Apple_964,Student,"15.3""",IPS,Intel i7,32GB,512GB SSD,Integrated,Linux,Linux 4,1.52,911.76
+Acer,Acer_875,Gaming,"13.4""",IPS,Intel i7,8GB,1TB HDD,NVIDIA RTX 4060,macOS,macOS 9,1.73,1239.63
+Acer,Acer_251,Business,"14.3""",OLED,Intel i7,16GB,128GB SSD,AMD Radeon,Linux,Linux 12,1.92,1175.69
+Dell,Dell_260,Student,"16.1""",IPS,Intel i3,4GB,1TB SSD,Integrated,Windows,Windows 5,1.79,723.16
+Asus,Asus_877,Ultrabook,"15.2""",IPS,Intel i9,4GB,256GB SSD,Integrated,Windows,Windows 9,2.02,968.53
+Dell,Dell_316,Ultrabook,"14.7""",Retina,AMD Ryzen 5,8GB,128GB SSD,NVIDIA RTX 4060,Windows,Windows 12,1.62,1090.21
+Asus,Asus_279,Ultrabook,"16.5""",Retina,AMD Ryzen 7,4GB,512GB SSD,Integrated,macOS,macOS 11,1.44,1042.48
+HP,HP_331,Gaming,"15.0""",IPS,AMD Ryzen 5,16GB,1TB SSD,Integrated,Windows,Windows 2,2.17,1498.19
+Asus,Asus_725,Student,"16.4""",OLED,Intel i3,32GB,256GB SSD,NVIDIA RTX 4060,Windows,Windows 9,1.48,1022.26
+Dell,Dell_432,Workstation,"15.5""",IPS,Intel i5,16GB,1TB HDD,AMD Radeon,Linux,Linux 9,2.61,1693.19
+MSI,MSI_938,Ultrabook,"17.3""",OLED,AMD Ryzen 5,16GB,256GB SSD,Integrated,Linux,Linux 1,2.73,685.1
+MSI,MSI_607,Business,"14.9""",Retina,Intel i7,8GB,1TB HDD,NVIDIA GTX 1650,Windows,Windows 3,2.31,895.59
+Samsung,Samsung_265,Workstation,"14.3""",Retina,Intel i5,16GB,1TB SSD,NVIDIA RTX 4060,Linux,Linux 1,1.31,1639.82
+Samsung,Samsung_956,Business,"16.4""",LED,Intel i5,32GB,512GB SSD,NVIDIA RTX 4060,Linux,Linux 2,1.66,831.53
+Acer,Acer_348,Workstation,"17.1""",Retina,Intel i3,32GB,256GB SSD,NVIDIA RTX 4060,macOS,macOS 11,1.63,1338.28
+Acer,Acer_232,Gaming,"17.1""",IPS,AMD Ryzen 7,8GB,512GB SSD,NVIDIA RTX 4060,Linux,Linux 7,1.36,1196.5
+HP,HP_430,Gaming,"13.3""",LED,Intel i9,8GB,256GB SSD,NVIDIA GTX 1650,Windows,Windows 6,1.8,921.61
+Acer,Acer_311,Business,"17.2""",Retina,Intel i9,8GB,128GB SSD,NVIDIA RTX 3050,macOS,macOS 3,3.03,1240.82
+HP,HP_144,Student,"14.5""",LED,Intel i7,4GB,1TB SSD,NVIDIA GTX 1650,Linux,Linux 6,2.99,1110.57
+Apple,Apple_456,Gaming,"13.5""",LED,Intel i9,4GB,512GB SSD,NVIDIA RTX 3050,macOS,macOS 5,2.56,1328.86
+Lenovo,Lenovo_402,Business,"15.1""",OLED,Intel i3,4GB,1TB SSD,AMD Radeon,macOS,macOS 7,2.03,834.97
+Dell,Dell_738,Business,"16.4""",LED,Intel i3,16GB,256GB SSD,NVIDIA RTX 3050,Windows,Windows 12,2.65,712.58
+Apple,Apple_839,Student,"16.9""",OLED,Intel i7,8GB,1TB HDD,Integrated,macOS,macOS 7,1.23,773.1
+MSI,MSI_997,Gaming,"13.7""",OLED,Intel i9,16GB,1TB HDD,NVIDIA GTX 1650,Windows,Windows 7,1.17,1398.58
+Dell,Dell_504,Student,"16.2""",OLED,AMD Ryzen 7,32GB,1TB HDD,AMD Radeon,macOS,macOS 9,3.25,675.14
+Acer,Acer_462,Workstation,"13.3""",LED,Intel i7,32GB,256GB SSD,Integrated,Windows,Windows 5,1.84,1457.72
+Acer,Acer_554,Gaming,"13.4""",OLED,Intel i3,16GB,256GB SSD,NVIDIA GTX 1650,Linux,Linux 1,1.79,824.56
+Lenovo,Lenovo_565,Gaming,"16.1""",OLED,Intel i3,16GB,1TB HDD,NVIDIA RTX 4060,Windows,Windows 10,1.6,1170.23
+Acer,Acer_608,Gaming,"14.7""",LED,AMD Ryzen 5,32GB,1TB SSD,NVIDIA RTX 4060,Windows,Windows 6,1.97,1510.76
+Apple,Apple_260,Student,"15.7""",LED,AMD Ryzen 7,32GB,1TB SSD,AMD Radeon,Linux,Linux 9,2.66,300.98
+HP,HP_178,Student,"15.2""",LED,AMD Ryzen 7,4GB,512GB SSD,AMD Radeon,Windows,Windows 5,1.48,654.39
+Samsung,Samsung_934,Ultrabook,"16.7""",LED,Intel i7,32GB,1TB SSD,NVIDIA RTX 4060,Windows,Windows 11,2.45,1387.77
+Dell,Dell_440,Gaming,"17.1""",Retina,Intel i7,4GB,128GB SSD,NVIDIA GTX 1650,macOS,macOS 10,1.32,1344.87
+Lenovo,Lenovo_986,Ultrabook,"16.3""",IPS,AMD Ryzen 5,8GB,128GB SSD,NVIDIA GTX 1650,macOS,macOS 9,1.5,1112.23
+Asus,Asus_178,Business,"13.9""",Retina,AMD Ryzen 7,4GB,512GB SSD,NVIDIA GTX 1650,Windows,Windows 12,3.43,826.57
+Apple,Apple_269,Business,"16.0""",OLED,Intel i9,32GB,128GB SSD,AMD Radeon,macOS,macOS 9,2.6,863.33
+Samsung,Samsung_812,Workstation,"13.4""",Retina,Intel i5,8GB,512GB SSD,NVIDIA RTX 3050,Linux,Linux 6,3.24,1380.04
+Apple,Apple_703,Business,"13.8""",IPS,Intel i5,8GB,256GB SSD,NVIDIA GTX 1650,Windows,Windows 8,2.07,588.24
+Apple,Apple_142,Business,"13.6""",LED,Intel i5,4GB,512GB SSD,Integrated,macOS,macOS 8,2.1,1150.51
+MSI,MSI_248,Student,"14.4""",LED,Intel i9,8GB,128GB SSD,Integrated,macOS,macOS 4,1.62,544.2
+Samsung,Samsung_962,Workstation,"15.6""",IPS,AMD Ryzen 7,8GB,256GB SSD,Integrated,Windows,Windows 11,3.16,1722.64
+HP,HP_665,Business,"14.5""",OLED,Intel i7,32GB,256GB SSD,NVIDIA RTX 3050,macOS,macOS 12,2.69,681.38
+Acer,Acer_515,Business,"16.2""",OLED,Intel i3,32GB,1TB HDD,NVIDIA GTX 1650,macOS,macOS 2,1.76,803.71
+Acer,Acer_660,Gaming,"17.0""",IPS,Intel i7,32GB,1TB SSD,AMD Radeon,Windows,Windows 9,2.1,919.34
+HP,HP_815,Business,"16.7""",IPS,AMD Ryzen 7,16GB,1TB HDD,Integrated,Linux,Linux 5,3.22,1179.94
+Samsung,Samsung_480,Gaming,"16.7""",OLED,Intel i9,32GB,256GB SSD,NVIDIA RTX 3050,Windows,Windows 10,1.86,1273.33
+Apple,Apple_136,Student,"16.0""",IPS,Intel i5,4GB,512GB SSD,NVIDIA GTX 1650,Windows,Windows 10,1.28,916.84
+Asus,Asus_493,Gaming,"16.8""",IPS,Intel i9,16GB,512GB SSD,Integrated,Windows,Windows 9,1.29,1242.06
+Samsung,Samsung_652,Student,"14.9""",IPS,AMD Ryzen 7,16GB,256GB SSD,Integrated,Windows,Windows 1,2.5,569.94
+HP,HP_268,Workstation,"15.4""",Retina,Intel i9,4GB,256GB SSD,NVIDIA RTX 4060,Windows,Windows 12,3.02,1530.41
+Samsung,Samsung_569,Student,"14.8""",Retina,AMD Ryzen 7,8GB,1TB HDD,AMD Radeon,Linux,Linux 2,2.47,655.92
+Asus,Asus_164,Student,"14.2""",Retina,Intel i5,16GB,128GB SSD,NVIDIA GTX 1650,macOS,macOS 1,2.38,484.16
+Asus,Asus_365,Student,"14.7""",IPS,AMD Ryzen 5,32GB,128GB SSD,NVIDIA RTX 4060,Linux,Linux 7,1.78,712.38
+Asus,Asus_750,Student,"13.9""",OLED,AMD Ryzen 5,16GB,128GB SSD,Integrated,macOS,macOS 8,1.83,514.49
+Lenovo,Lenovo_808,Gaming,"15.9""",Retina,Intel i3,8GB,1TB HDD,Integrated,macOS,macOS 10,3.15,1168.59
+HP,HP_901,Ultrabook,"16.3""",LED,AMD Ryzen 7,8GB,256GB SSD,NVIDIA GTX 1650,macOS,macOS 12,3.41,1470.68
+Samsung,Samsung_531,Business,"13.4""",IPS,Intel i9,32GB,256GB SSD,AMD Radeon,macOS,macOS 3,1.92,684.36
+Apple,Apple_888,Business,"13.7""",LED,Intel i5,8GB,128GB SSD,NVIDIA RTX 3050,Linux,Linux 10,1.77,975.42
+Asus,Asus_544,Student,"14.0""",Retina,Intel i3,16GB,1TB HDD,NVIDIA RTX 3050,Windows,Windows 6,1.82,417.79
+Samsung,Samsung_174,Business,"14.0""",IPS,Intel i7,16GB,256GB SSD,NVIDIA GTX 1650,Windows,Windows 4,1.76,1060.63
+Asus,Asus_828,Business,"14.3""",IPS,Intel i9,4GB,512GB SSD,Integrated,Windows,Windows 5,1.84,658.14
+Samsung,Samsung_329,Business,"14.1""",IPS,Intel i3,4GB,256GB SSD,NVIDIA RTX 4060,Linux,Linux 10,1.01,707.27
+Acer,Acer_649,Student,"14.5""",Retina,Intel i7,8GB,512GB SSD,AMD Radeon,Windows,Windows 3,2.19,800.38
+Dell,Dell_409,Business,"13.5""",LED,Intel i5,8GB,128GB SSD,AMD Radeon,Linux,Linux 8,1.09,1031.38
+MSI,MSI_102,Ultrabook,"16.3""",LED,Intel i3,32GB,128GB SSD,NVIDIA RTX 3050,Windows,Windows 5,1.17,852.93
+Apple,Apple_747,Student,"16.9""",Retina,AMD Ryzen 7,16GB,1TB SSD,NVIDIA RTX 3050,Windows,Windows 4,2.41,1004.65
+Apple,Apple_750,Workstation,"15.8""",Retina,Intel i9,4GB,1TB HDD,NVIDIA GTX 1650,macOS,macOS 10,1.23,1292.74
+Lenovo,Lenovo_980,Workstation,"13.2""",Retina,AMD Ryzen 5,8GB,256GB SSD,AMD Radeon,macOS,macOS 9,3.17,1459.31
+Asus,Asus_467,Student,"13.3""",IPS,Intel i3,32GB,1TB HDD,NVIDIA RTX 3050,Linux,Linux 2,1.61,899.89
+Acer,Acer_563,Ultrabook,"15.9""",OLED,AMD Ryzen 7,16GB,128GB SSD,NVIDIA RTX 3050,macOS,macOS 1,3.42,1083.57
+Apple,Apple_626,Business,"14.3""",LED,AMD Ryzen 7,8GB,128GB SSD,AMD Radeon,macOS,macOS 7,1.28,927.47
+Acer,Acer_348,Student,"14.9""",OLED,AMD Ryzen 7,4GB,1TB SSD,Integrated,Linux,Linux 2,2.27,548.71
+Dell,Dell_939,Gaming,"16.6""",LED,Intel i3,16GB,1TB HDD,AMD Radeon,Windows,Windows 8,1.39,1042.64
+Acer,Acer_409,Student,"15.5""",IPS,Intel i5,16GB,256GB SSD,Integrated,Linux,Linux 1,1.1,543.1
+Lenovo,Lenovo_724,Workstation,"16.3""",IPS,AMD Ryzen 5,16GB,512GB SSD,AMD Radeon,Linux,Linux 12,2.69,1572.86
+MSI,MSI_378,Ultrabook,"16.7""",IPS,AMD Ryzen 5,32GB,512GB SSD,NVIDIA RTX 3050,Windows,Windows 6,2.85,872.38
+HP,HP_290,Ultrabook,"16.4""",Retina,AMD Ryzen 5,16GB,512GB SSD,NVIDIA RTX 4060,macOS,macOS 4,1.96,1188.1
+HP,HP_455,Student,"15.7""",IPS,Intel i9,16GB,1TB SSD,NVIDIA GTX 1650,macOS,macOS 12,1.38,516.21
+MSI,MSI_951,Gaming,"16.4""",IPS,Intel i7,32GB,128GB SSD,NVIDIA GTX 1650,macOS,macOS 9,2.72,1327.9
+Dell,Dell_380,Ultrabook,"16.8""",IPS,Intel i3,16GB,512GB SSD,Integrated,macOS,macOS 2,3.22,1223.45
+HP,HP_113,Gaming,"14.7""",IPS,Intel i5,16GB,1TB SSD,AMD Radeon,Linux,Linux 7,1.84,921.44
+HP,HP_454,Gaming,"13.1""",OLED,Intel i9,8GB,1TB HDD,NVIDIA GTX 1650,Windows,Windows 1,1.15,1079.04
+MSI,MSI_835,Gaming,"15.4""",IPS,Intel i9,16GB,1TB HDD,NVIDIA RTX 4060,macOS,macOS 12,1.08,1334.16
+Acer,Acer_114,Business,"13.4""",Retina,Intel i3,32GB,1TB SSD,Integrated,Windows,Windows 12,1.77,1400.59
+Asus,Asus_865,Workstation,"13.2""",LED,Intel i3,8GB,1TB SSD,AMD Radeon,macOS,macOS 12,3.49,1381.69
+MSI,MSI_157,Gaming,"14.1""",Retina,AMD Ryzen 5,16GB,1TB SSD,AMD Radeon,Linux,Linux 3,2.02,1004.91
+MSI,MSI_824,Student,"16.4""",Retina,Intel i9,16GB,128GB SSD,NVIDIA GTX 1650,Windows,Windows 12,1.28,690.73
+Acer,Acer_534,Business,"13.4""",IPS,AMD Ryzen 7,4GB,128GB SSD,NVIDIA GTX 1650,Linux,Linux 2,1.71,1211.02
+HP,HP_683,Business,"16.9""",IPS,Intel i3,16GB,128GB SSD,AMD Radeon,macOS,macOS 3,2.64,1408.69
+HP,HP_579,Gaming,"16.1""",Retina,AMD Ryzen 7,8GB,1TB HDD,AMD Radeon,Windows,Windows 4,2.64,998.75
+Apple,Apple_834,Workstation,"16.8""",Retina,AMD Ryzen 7,16GB,512GB SSD,NVIDIA RTX 4060,Windows,Windows 5,2.84,920.96
+Samsung,Samsung_734,Workstation,"16.7""",LED,AMD Ryzen 7,32GB,256GB SSD,AMD Radeon,Windows,Windows 11,3.22,1495.92
+Lenovo,Lenovo_248,Ultrabook,"14.5""",Retina,Intel i5,4GB,1TB SSD,NVIDIA GTX 1650,macOS,macOS 1,3.45,1019.18
+Apple,Apple_429,Gaming,"17.0""",OLED,Intel i5,4GB,128GB SSD,Integrated,macOS,macOS 10,3.29,1040.6
+Lenovo,Lenovo_700,Business,"15.2""",IPS,Intel i7,16GB,1TB SSD,Integrated,Windows,Windows 3,2.16,1080.9
+MSI,MSI_458,Business,"13.4""",IPS,Intel i3,16GB,1TB HDD,NVIDIA RTX 3050,Linux,Linux 4,2.99,718.64
+Samsung,Samsung_581,Gaming,"16.8""",IPS,AMD Ryzen 7,8GB,128GB SSD,NVIDIA RTX 4060,Linux,Linux 11,1.27,1288.47
+Asus,Asus_479,Workstation,"17.2""",Retina,AMD Ryzen 5,4GB,256GB SSD,NVIDIA RTX 4060,Windows,Windows 8,2.06,1509.09
+Samsung,Samsung_960,Student,"14.2""",OLED,Intel i9,32GB,128GB SSD,NVIDIA RTX 3050,macOS,macOS 7,1.41,1023.2
+Asus,Asus_833,Ultrabook,"15.1""",OLED,Intel i5,4GB,1TB SSD,AMD Radeon,Windows,Windows 1,3.08,1265.21
+Acer,Acer_494,Business,"14.7""",IPS,Intel i9,32GB,256GB SSD,AMD Radeon,Windows,Windows 9,1.64,1013.5
+Asus,Asus_825,Workstation,"13.8""",LED,Intel i9,8GB,256GB SSD,AMD Radeon,macOS,macOS 4,1.31,1293.25
+Samsung,Samsung_659,Business,"16.8""",LED,AMD Ryzen 5,32GB,1TB HDD,Integrated,Windows,Windows 1,2.43,650.85
+Acer,Acer_668,Gaming,"17.0""",IPS,Intel i3,32GB,1TB HDD,Integrated,Windows,Windows 9,2.61,1304.5
+HP,HP_845,Ultrabook,"13.7""",Retina,Intel i7,4GB,256GB SSD,NVIDIA GTX 1650,Windows,Windows 8,2.58,922.73
+Dell,Dell_943,Student,"16.9""",OLED,Intel i7,4GB,256GB SSD,NVIDIA RTX 4060,Windows,Windows 2,1.38,409.72
+HP,HP_370,Gaming,"14.3""",OLED,Intel i9,8GB,1TB HDD,NVIDIA GTX 1650,Windows,Windows 8,3.37,1241.02
+Dell,Dell_575,Workstation,"13.9""",OLED,Intel i7,8GB,256GB SSD,AMD Radeon,macOS,macOS 11,1.24,1175.32
+MSI,MSI_131,Gaming,"13.8""",OLED,AMD Ryzen 5,4GB,1TB HDD,NVIDIA GTX 1650,Linux,Linux 4,1.67,1291.46
+Samsung,Samsung_391,Gaming,"15.2""",LED,Intel i7,4GB,1TB HDD,NVIDIA RTX 3050,Linux,Linux 11,1.82,1619.64
+Dell,Dell_646,Student,"13.7""",IPS,Intel i5,4GB,1TB SSD,NVIDIA RTX 3050,macOS,macOS 1,3.36,759.05
+Samsung,Samsung_767,Gaming,"15.8""",OLED,AMD Ryzen 5,8GB,128GB SSD,AMD Radeon,Windows,Windows 9,2.45,1152.35
+Asus,Asus_563,Ultrabook,"15.9""",Retina,Intel i7,8GB,256GB SSD,AMD Radeon,Windows,Windows 1,1.2,612.94
+Lenovo,Lenovo_106,Gaming,"15.9""",LED,AMD Ryzen 7,8GB,1TB HDD,NVIDIA GTX 1650,macOS,macOS 2,1.81,1336.83
+Dell,Dell_561,Ultrabook,"14.2""",Retina,AMD Ryzen 5,32GB,1TB SSD,AMD Radeon,Linux,Linux 3,1.32,1286.07
+Apple,Apple_122,Workstation,"15.5""",OLED,Intel i9,16GB,256GB SSD,Integrated,Windows,Windows 7,2.06,1206.66
+MSI,MSI_656,Student,"15.2""",OLED,AMD Ryzen 5,32GB,256GB SSD,NVIDIA RTX 3050,Linux,Linux 1,1.21,521.92
+Asus,Asus_167,Business,"15.8""",Retina,Intel i7,4GB,1TB SSD,Integrated,Linux,Linux 10,2.66,1025.52
+Samsung,Samsung_122,Business,"13.9""",Retina,AMD Ryzen 5,8GB,512GB SSD,NVIDIA RTX 4060,Windows,Windows 3,2.3,846.27
+HP,HP_830,Gaming,"14.5""",OLED,AMD Ryzen 5,4GB,1TB SSD,AMD Radeon,Windows,Windows 11,1.49,1500.08
+HP,HP_140,Business,"14.2""",Retina,Intel i7,4GB,1TB HDD,NVIDIA RTX 4060,Linux,Linux 1,3.4,969.22
+Lenovo,Lenovo_241,Student,"14.6""",IPS,AMD Ryzen 7,4GB,1TB SSD,NVIDIA RTX 3050,macOS,macOS 7,1.84,915.57
+Asus,Asus_424,Gaming,"15.5""",IPS,AMD Ryzen 5,32GB,256GB SSD,NVIDIA GTX 1650,Windows,Windows 3,1.24,1205.31
+Lenovo,Lenovo_698,Workstation,"14.7""",IPS,Intel i5,4GB,1TB HDD,NVIDIA RTX 3050,Windows,Windows 12,3.33,1489.5
+MSI,MSI_569,Workstation,"14.4""",LED,Intel i9,8GB,1TB HDD,Integrated,Windows,Windows 1,1.53,1601.17
+HP,HP_220,Workstation,"16.4""",LED,Intel i5,4GB,1TB SSD,NVIDIA GTX 1650,Windows,Windows 1,1.46,1898.18
+Samsung,Samsung_784,Business,"15.6""",LED,Intel i9,8GB,1TB SSD,Integrated,macOS,macOS 9,1.14,920.58
+Lenovo,Lenovo_627,Business,"14.5""",OLED,Intel i5,4GB,256GB SSD,Integrated,Windows,Windows 2,1.65,437.19
+MSI,MSI_120,Ultrabook,"16.6""",LED,Intel i7,4GB,1TB HDD,NVIDIA RTX 4060,macOS,macOS 5,1.98,1127.32
+HP,HP_832,Gaming,"16.4""",LED,Intel i9,8GB,1TB SSD,NVIDIA RTX 3050,Linux,Linux 3,2.43,1205.08
+Samsung,Samsung_839,Gaming,"15.7""",IPS,Intel i3,4GB,512GB SSD,AMD Radeon,macOS,macOS 10,3.05,1215.77
+MSI,MSI_900,Workstation,"16.8""",Retina,Intel i3,8GB,1TB SSD,NVIDIA GTX 1650,Linux,Linux 4,2.36,1443.18
+Acer,Acer_644,Business,"14.3""",Retina,AMD Ryzen 7,32GB,512GB SSD,NVIDIA RTX 4060,Windows,Windows 11,3.29,1102.69
+Asus,Asus_377,Gaming,"15.9""",OLED,Intel i3,32GB,128GB SSD,AMD Radeon,macOS,macOS 11,2.52,1442.47
+Apple,Apple_617,Gaming,"16.6""",OLED,Intel i5,4GB,256GB SSD,Integrated,Linux,Linux 6,1.52,1387.74
+HP,HP_789,Workstation,"14.3""",OLED,Intel i5,4GB,128GB SSD,Integrated,Linux,Linux 11,1.74,1255.37
+Samsung,Samsung_444,Ultrabook,"13.2""",IPS,Intel i9,4GB,1TB HDD,NVIDIA RTX 3050,Windows,Windows 8,2.69,1150.55
+Dell,Dell_476,Business,"14.6""",IPS,Intel i3,8GB,256GB SSD,AMD Radeon,Linux,Linux 11,2.22,810.2
+Dell,Dell_155,Business,"16.8""",IPS,AMD Ryzen 7,16GB,256GB SSD,AMD Radeon,Windows,Windows 7,2.39,873.19
+Asus,Asus_416,Gaming,"15.2""",Retina,Intel i3,4GB,1TB SSD,NVIDIA GTX 1650,macOS,macOS 5,3.23,1115.65
+Lenovo,Lenovo_944,Ultrabook,"16.5""",Retina,Intel i9,4GB,1TB HDD,AMD Radeon,Windows,Windows 11,3.12,1248.71
+Asus,Asus_180,Gaming,"15.9""",OLED,AMD Ryzen 5,8GB,256GB SSD,AMD Radeon,Linux,Linux 8,2.32,1298.4
+Samsung,Samsung_519,Business,"17.0""",IPS,AMD Ryzen 5,4GB,1TB HDD,Integrated,Linux,Linux 8,3.34,1364.2
+Samsung,Samsung_294,Workstation,"15.1""",LED,Intel i7,16GB,128GB SSD,NVIDIA RTX 4060,macOS,macOS 8,3.09,1620.7
+HP,HP_831,Gaming,"13.6""",OLED,Intel i9,16GB,128GB SSD,Integrated,Linux,Linux 3,3.11,1142.71
+Asus,Asus_772,Workstation,"16.2""",OLED,AMD Ryzen 7,32GB,1TB SSD,NVIDIA RTX 4060,Linux,Linux 6,2.91,1596.77
+Lenovo,Lenovo_706,Gaming,"13.1""",LED,Intel i9,8GB,256GB SSD,AMD Radeon,Linux,Linux 11,2.74,1274.7
+Lenovo,Lenovo_405,Student,"17.0""",Retina,AMD Ryzen 7,32GB,1TB HDD,NVIDIA GTX 1650,macOS,macOS 7,2.06,508.75
+MSI,MSI_534,Ultrabook,"16.5""",LED,Intel i9,16GB,128GB SSD,NVIDIA GTX 1650,macOS,macOS 6,2.41,1453.96
+Samsung,Samsung_881,Student,"13.7""",LED,Intel i7,32GB,256GB SSD,Integrated,macOS,macOS 9,1.12,725.64
+Asus,Asus_677,Business,"15.8""",IPS,Intel i9,4GB,1TB SSD,Integrated,Linux,Linux 12,2.3,1275.77
+Dell,Dell_544,Business,"16.8""",Retina,AMD Ryzen 5,16GB,512GB SSD,NVIDIA RTX 4060,Windows,Windows 9,3.46,1044.02
+HP,HP_387,Ultrabook,"13.4""",OLED,AMD Ryzen 7,8GB,1TB HDD,Integrated,Windows,Windows 5,1.84,1105.69
+Asus,Asus_237,Business,"15.7""",Retina,Intel i3,32GB,1TB SSD,NVIDIA RTX 3050,macOS,macOS 6,2.25,904.35
+Asus,Asus_868,Ultrabook,"15.4""",Retina,Intel i3,32GB,256GB SSD,NVIDIA RTX 3050,Linux,Linux 4,1.51,903.03
+Dell,Dell_243,Workstation,"17.2""",IPS,Intel i9,4GB,1TB HDD,NVIDIA RTX 4060,macOS,macOS 2,1.64,1613.7
+Lenovo,Lenovo_476,Gaming,"15.6""",LED,Intel i3,4GB,1TB HDD,NVIDIA RTX 3050,macOS,macOS 1,2.63,1238.21
+HP,HP_837,Business,"15.4""",OLED,AMD Ryzen 7,32GB,512GB SSD,NVIDIA RTX 3050,Windows,Windows 12,2.4,774.73
+Dell,Dell_531,Student,"14.8""",Retina,AMD Ryzen 7,8GB,1TB HDD,Integrated,Linux,Linux 5,3.26,678.84
+Dell,Dell_417,Ultrabook,"14.9""",OLED,Intel i7,8GB,1TB HDD,NVIDIA RTX 3050,macOS,macOS 2,1.3,1347.71
+Apple,Apple_268,Business,"16.0""",OLED,Intel i9,32GB,512GB SSD,NVIDIA RTX 3050,Windows,Windows 2,2.43,1245.6
+Lenovo,Lenovo_718,Business,"14.2""",LED,AMD Ryzen 5,32GB,1TB SSD,Integrated,macOS,macOS 12,3.43,702.81
+HP,HP_981,Business,"17.2""",IPS,Intel i5,32GB,512GB SSD,Integrated,Linux,Linux 1,2.34,1310.97
+Apple,Apple_103,Gaming,"13.2""",LED,Intel i5,16GB,256GB SSD,Integrated,Linux,Linux 6,2.83,1316.51
+MSI,MSI_718,Business,"14.4""",Retina,AMD Ryzen 7,32GB,128GB SSD,Integrated,Linux,Linux 7,1.19,869.51
+MSI,MSI_480,Gaming,"14.7""",IPS,Intel i9,16GB,256GB SSD,Integrated,Linux,Linux 3,1.67,1572.87
+Asus,Asus_226,Student,"13.2""",IPS,Intel i3,16GB,1TB SSD,NVIDIA RTX 3050,macOS,macOS 11,2.34,858.33
+MSI,MSI_528,Ultrabook,"15.8""",LED,Intel i3,16GB,1TB SSD,NVIDIA RTX 4060,Linux,Linux 3,1.79,876.25
+Lenovo,Lenovo_740,Business,"16.7""",OLED,Intel i3,32GB,1TB SSD,AMD Radeon,Linux,Linux 12,1.84,786.06
+MSI,MSI_304,Workstation,"17.3""",OLED,Intel i5,8GB,128GB SSD,Integrated,Windows,Windows 1,1.95,1428.43
+Apple,Apple_784,Student,"16.1""",OLED,Intel i7,4GB,256GB SSD,NVIDIA RTX 4060,Linux,Linux 7,1.2,902.27
+Acer,Acer_354,Business,"16.8""",OLED,AMD Ryzen 7,16GB,256GB SSD,NVIDIA RTX 4060,Windows,Windows 8,1.32,1037.32
+Apple,Apple_739,Workstation,"13.6""",OLED,AMD Ryzen 5,8GB,1TB HDD,NVIDIA GTX 1650,Linux,Linux 10,1.59,1459.82
+Lenovo,Lenovo_862,Business,"15.2""",IPS,Intel i3,4GB,128GB SSD,AMD Radeon,Windows,Windows 10,1.68,830.65
+Acer,Acer_226,Workstation,"13.9""",OLED,Intel i7,32GB,1TB SSD,NVIDIA GTX 1650,Windows,Windows 3,1.74,1323.8
+Acer,Acer_569,Workstation,"14.2""",LED,Intel i5,4GB,256GB SSD,NVIDIA GTX 1650,Linux,Linux 3,2.14,1577.55
+Dell,Dell_597,Student,"16.2""",LED,Intel i5,16GB,1TB HDD,Integrated,macOS,macOS 8,2.42,960.32
+Asus,Asus_613,Ultrabook,"13.2""",LED,Intel i9,4GB,1TB HDD,NVIDIA RTX 4060,Linux,Linux 12,2.69,961.72
+MSI,MSI_299,Business,"16.5""",LED,Intel i5,32GB,1TB HDD,NVIDIA GTX 1650,macOS,macOS 7,3.1,822.42
+Apple,Apple_982,Business,"16.6""",IPS,AMD Ryzen 5,32GB,512GB SSD,NVIDIA RTX 4060,macOS,macOS 3,1.61,1161.21
+Asus,Asus_572,Workstation,"13.4""",LED,AMD Ryzen 7,8GB,512GB SSD,NVIDIA RTX 4060,Linux,Linux 1,2.14,1554.95
+Asus,Asus_914,Ultrabook,"15.0""",Retina,Intel i7,8GB,128GB SSD,NVIDIA RTX 3050,Windows,Windows 9,3.4,1010.48
+Apple,Apple_418,Workstation,"16.3""",OLED,AMD Ryzen 7,32GB,1TB SSD,AMD Radeon,Windows,Windows 6,2.38,1229.25
+Acer,Acer_274,Ultrabook,"17.0""",Retina,Intel i3,8GB,512GB SSD,Integrated,Windows,Windows 4,2.43,1246.9
+HP,HP_174,Business,"16.1""",LED,AMD Ryzen 5,16GB,128GB SSD,NVIDIA GTX 1650,macOS,macOS 12,2.46,850.73
+MSI,MSI_606,Gaming,"16.3""",LED,Intel i9,4GB,1TB SSD,NVIDIA RTX 3050,Windows,Windows 7,2.82,739.71
+HP,HP_435,Student,"14.0""",IPS,Intel i9,8GB,1TB HDD,NVIDIA GTX 1650,Linux,Linux 8,3.26,1111.56
+Lenovo,Lenovo_861,Student,"14.7""",Retina,Intel i7,32GB,1TB SSD,NVIDIA GTX 1650,Linux,Linux 9,2.24,412.32
+HP,HP_957,Workstation,"15.9""",LED,AMD Ryzen 7,16GB,256GB SSD,Integrated,macOS,macOS 6,1.83,1326.94
+Lenovo,Lenovo_921,Gaming,"16.4""",OLED,AMD Ryzen 5,4GB,512GB SSD,Integrated,Windows,Windows 11,3.33,1422.1
+Asus,Asus_711,Ultrabook,"15.2""",Retina,Intel i5,8GB,1TB HDD,AMD Radeon,macOS,macOS 5,1.78,1407.14
+Lenovo,Lenovo_237,Business,"14.8""",IPS,Intel i7,8GB,128GB SSD,AMD Radeon,macOS,macOS 6,1.76,1086.14
+Samsung,Samsung_286,Gaming,"14.0""",LED,AMD Ryzen 5,32GB,512GB SSD,NVIDIA RTX 3050,Linux,Linux 10,3.17,1274.69
+Lenovo,Lenovo_280,Ultrabook,"13.5""",OLED,Intel i3,4GB,128GB SSD,NVIDIA RTX 3050,macOS,macOS 3,3.47,943.06
+Dell,Dell_679,Student,"16.5""",Retina,Intel i7,16GB,1TB SSD,Integrated,macOS,macOS 1,1.59,612.06
+Asus,Asus_221,Student,"14.6""",Retina,AMD Ryzen 7,4GB,256GB SSD,AMD Radeon,macOS,macOS 10,1.94,580.92
+Samsung,Samsung_811,Workstation,"14.2""",Retina,Intel i7,32GB,512GB SSD,NVIDIA RTX 3050,Windows,Windows 2,1.28,1781.84
+Dell,Dell_547,Gaming,"13.3""",LED,Intel i5,32GB,1TB SSD,AMD Radeon,Windows,Windows 12,2.83,1102.51
+Samsung,Samsung_823,Business,"15.4""",LED,Intel i9,4GB,256GB SSD,AMD Radeon,macOS,macOS 6,1.41,745.77
+HP,HP_838,Gaming,"14.5""",OLED,AMD Ryzen 7,16GB,1TB SSD,AMD Radeon,Linux,Linux 9,1.81,955.4
+Samsung,Samsung_865,Workstation,"16.0""",IPS,AMD Ryzen 7,32GB,256GB SSD,NVIDIA RTX 3050,Windows,Windows 2,2.69,1486.71
+Acer,Acer_498,Workstation,"14.5""",IPS,AMD Ryzen 5,16GB,512GB SSD,NVIDIA RTX 4060,Linux,Linux 12,3.01,1428.38
+Acer,Acer_885,Business,"15.7""",IPS,Intel i5,32GB,128GB SSD,Integrated,Windows,Windows 8,2.24,1086.26
+MSI,MSI_719,Ultrabook,"13.1""",OLED,Intel i9,32GB,1TB HDD,Integrated,Linux,Linux 4,1.86,1088.88
+Acer,Acer_814,Workstation,"15.5""",IPS,Intel i9,32GB,256GB SSD,NVIDIA RTX 3050,Linux,Linux 1,2.0,1679.11
+Lenovo,Lenovo_736,Student,"16.9""",LED,AMD Ryzen 5,32GB,1TB HDD,NVIDIA GTX 1650,macOS,macOS 4,1.18,351.93
+Asus,Asus_136,Workstation,"16.6""",LED,Intel i7,4GB,256GB SSD,NVIDIA GTX 1650,Windows,Windows 7,2.2,1177.08
+Asus,Asus_356,Student,"16.3""",OLED,Intel i7,32GB,512GB SSD,NVIDIA RTX 3050,Linux,Linux 10,3.46,717.04
+HP,HP_752,Business,"15.6""",LED,Intel i9,16GB,512GB SSD,Integrated,Linux,Linux 10,3.14,679.65
+Acer,Acer_379,Gaming,"14.9""",LED,AMD Ryzen 5,16GB,1TB HDD,NVIDIA RTX 4060,Windows,Windows 4,3.26,1197.0
+MSI,MSI_673,Workstation,"16.5""",IPS,Intel i5,8GB,1TB HDD,NVIDIA RTX 4060,Linux,Linux 1,2.16,1616.48
+Apple,Apple_784,Ultrabook,"13.1""",LED,AMD Ryzen 5,4GB,1TB SSD,NVIDIA GTX 1650,Windows,Windows 11,3.09,1203.25
+HP,HP_355,Gaming,"13.8""",LED,Intel i7,16GB,128GB SSD,AMD Radeon,Windows,Windows 6,2.32,1491.58
+Apple,Apple_265,Gaming,"16.4""",LED,AMD Ryzen 7,16GB,128GB SSD,AMD Radeon,Linux,Linux 9,2.86,1380.42
+Lenovo,Lenovo_341,Business,"13.7""",OLED,Intel i7,16GB,512GB SSD,NVIDIA GTX 1650,Windows,Windows 8,2.66,810.48
+Apple,Apple_121,Student,"16.0""",IPS,Intel i3,32GB,512GB SSD,AMD Radeon,macOS,macOS 8,3.4,830.38
+Apple,Apple_470,Gaming,"13.3""",Retina,AMD Ryzen 7,32GB,512GB SSD,AMD Radeon,Linux,Linux 5,2.25,1227.23
+HP,HP_113,Workstation,"13.9""",OLED,AMD Ryzen 5,4GB,256GB SSD,NVIDIA RTX 4060,macOS,macOS 11,2.12,1641.03
+Lenovo,Lenovo_399,Ultrabook,"14.9""",Retina,Intel i5,32GB,1TB SSD,NVIDIA RTX 3050,Windows,Windows 3,1.95,1550.7
+HP,HP_722,Ultrabook,"16.4""",Retina,Intel i7,16GB,1TB HDD,AMD Radeon,Windows,Windows 6,2.47,1007.28
+Samsung,Samsung_508,Student,"14.1""",OLED,Intel i9,32GB,512GB SSD,NVIDIA RTX 4060,Linux,Linux 11,1.52,504.34
+Asus,Asus_143,Gaming,"15.4""",Retina,AMD Ryzen 7,4GB,256GB SSD,Integrated,Linux,Linux 3,2.1,1559.7
+Dell,Dell_539,Gaming,"13.9""",Retina,Intel i3,32GB,1TB HDD,AMD Radeon,Linux,Linux 8,1.68,1118.78
+Lenovo,Lenovo_274,Ultrabook,"13.1""",IPS,Intel i9,8GB,1TB SSD,NVIDIA RTX 4060,Windows,Windows 8,2.8,782.26
+Acer,Acer_829,Gaming,"16.4""",OLED,AMD Ryzen 5,8GB,1TB HDD,AMD Radeon,Windows,Windows 8,3.33,1387.21
+MSI,MSI_811,Workstation,"13.1""",LED,Intel i9,32GB,1TB SSD,AMD Radeon,Windows,Windows 8,3.35,1655.39
+Acer,Acer_254,Gaming,"17.2""",Retina,AMD Ryzen 5,4GB,128GB SSD,Integrated,Linux,Linux 12,2.39,1337.84
+Acer,Acer_832,Ultrabook,"16.2""",IPS,Intel i3,4GB,1TB SSD,AMD Radeon,Windows,Windows 5,3.21,1135.1
+Lenovo,Lenovo_938,Business,"13.2""",Retina,AMD Ryzen 5,4GB,1TB HDD,NVIDIA GTX 1650,Linux,Linux 4,1.89,891.92
+MSI,MSI_568,Workstation,"14.8""",LED,Intel i5,32GB,128GB SSD,NVIDIA RTX 3050,Windows,Windows 5,2.59,1249.26
+MSI,MSI_754,Workstation,"14.7""",OLED,Intel i3,4GB,128GB SSD,NVIDIA GTX 1650,Linux,Linux 12,1.34,1484.9
+Apple,Apple_964,Student,"15.9""",LED,Intel i7,32GB,1TB SSD,NVIDIA RTX 4060,Linux,Linux 7,1.97,900.19
+Apple,Apple_851,Workstation,"13.4""",LED,Intel i3,4GB,256GB SSD,NVIDIA RTX 4060,Linux,Linux 10,2.48,1622.99
+Asus,Asus_151,Gaming,"15.8""",Retina,Intel i9,16GB,512GB SSD,AMD Radeon,macOS,macOS 4,3.25,1301.94
+Lenovo,Lenovo_354,Gaming,"17.1""",IPS,AMD Ryzen 7,8GB,1TB SSD,NVIDIA GTX 1650,macOS,macOS 3,3.5,1023.77
+Apple,Apple_552,Gaming,"13.3""",LED,Intel i5,16GB,512GB SSD,Integrated,Linux,Linux 1,3.01,961.19
+MSI,MSI_506,Business,"16.3""",IPS,Intel i7,16GB,1TB SSD,NVIDIA RTX 3050,macOS,macOS 4,2.5,651.54
+MSI,MSI_893,Workstation,"16.1""",OLED,AMD Ryzen 7,8GB,1TB SSD,Integrated,macOS,macOS 11,1.62,1159.84
+Dell,Dell_429,Student,"14.6""",OLED,AMD Ryzen 5,4GB,128GB SSD,NVIDIA GTX 1650,macOS,macOS 3,1.58,702.13
+Lenovo,Lenovo_757,Student,"16.6""",Retina,AMD Ryzen 5,4GB,1TB SSD,NVIDIA GTX 1650,Linux,Linux 8,2.72,432.8
+MSI,MSI_333,Workstation,"13.1""",Retina,AMD Ryzen 5,8GB,512GB SSD,NVIDIA RTX 3050,Linux,Linux 3,2.14,1807.83
+Lenovo,Lenovo_379,Workstation,"14.8""",Retina,AMD Ryzen 5,4GB,128GB SSD,Integrated,macOS,macOS 8,2.1,1814.48
+MSI,MSI_100,Student,"14.8""",IPS,Intel i7,32GB,512GB SSD,NVIDIA GTX 1650,macOS,macOS 2,1.93,1038.47
+MSI,MSI_573,Business,"16.8""",OLED,Intel i7,8GB,512GB SSD,NVIDIA RTX 3050,Windows,Windows 4,3.33,434.79
+Acer,Acer_621,Ultrabook,"16.0""",OLED,Intel i5,8GB,512GB SSD,NVIDIA RTX 4060,macOS,macOS 10,2.28,997.62
+MSI,MSI_642,Business,"15.6""",IPS,Intel i9,16GB,1TB HDD,NVIDIA RTX 4060,Windows,Windows 11,1.44,910.09
+MSI,MSI_500,Business,"15.5""",Retina,AMD Ryzen 7,8GB,1TB HDD,NVIDIA GTX 1650,Windows,Windows 12,1.06,780.5
+Samsung,Samsung_431,Ultrabook,"15.0""",IPS,Intel i5,8GB,128GB SSD,Integrated,macOS,macOS 12,2.26,1066.13
+Lenovo,Lenovo_803,Ultrabook,"16.1""",LED,Intel i9,32GB,256GB SSD,NVIDIA GTX 1650,Windows,Windows 3,3.22,1117.82
+Asus,Asus_264,Gaming,"16.5""",Retina,AMD Ryzen 5,8GB,1TB SSD,Integrated,macOS,macOS 12,3.08,1441.9
+Lenovo,Lenovo_220,Gaming,"13.9""",Retina,Intel i5,32GB,512GB SSD,AMD Radeon,Linux,Linux 8,3.02,1285.74
+Dell,Dell_170,Student,"14.9""",OLED,AMD Ryzen 5,4GB,1TB SSD,NVIDIA RTX 3050,Linux,Linux 2,2.84,701.84
+Apple,Apple_931,Gaming,"13.6""",OLED,AMD Ryzen 5,16GB,128GB SSD,NVIDIA RTX 3050,macOS,macOS 12,1.49,1058.49
+Lenovo,Lenovo_153,Business,"13.9""",LED,Intel i3,8GB,1TB HDD,NVIDIA RTX 4060,Linux,Linux 9,1.62,792.24
+Lenovo,Lenovo_761,Workstation,"16.4""",IPS,AMD Ryzen 5,8GB,128GB SSD,Integrated,Linux,Linux 5,3.12,1389.19
+Samsung,Samsung_602,Workstation,"14.5""",IPS,Intel i3,8GB,1TB SSD,NVIDIA GTX 1650,macOS,macOS 4,1.8,1497.71
+Asus,Asus_976,Workstation,"15.4""",Retina,AMD Ryzen 5,8GB,512GB SSD,AMD Radeon,Linux,Linux 10,3.24,1400.74
+Samsung,Samsung_731,Business,"15.2""",LED,Intel i3,8GB,1TB HDD,AMD Radeon,Linux,Linux 12,1.65,1242.83
+Apple,Apple_714,Business,"15.4""",Retina,Intel i9,8GB,1TB HDD,Integrated,macOS,macOS 12,2.67,745.05
+Acer,Acer_177,Student,"15.8""",Retina,Intel i9,4GB,1TB SSD,NVIDIA RTX 3050,Linux,Linux 8,3.48,739.53
+Samsung,Samsung_315,Business,"14.8""",Retina,AMD Ryzen 5,4GB,128GB SSD,AMD Radeon,Linux,Linux 12,2.64,651.56
+Asus,Asus_472,Workstation,"13.2""",Retina,AMD Ryzen 5,8GB,1TB SSD,AMD Radeon,Windows,Windows 2,1.05,1716.5
+HP,HP_616,Ultrabook,"15.2""",LED,Intel i3,32GB,1TB HDD,NVIDIA GTX 1650,Windows,Windows 1,2.18,886.79
+MSI,MSI_630,Student,"13.5""",LED,Intel i7,8GB,256GB SSD,NVIDIA RTX 4060,macOS,macOS 11,2.74,689.69
+MSI,MSI_939,Ultrabook,"14.9""",IPS,Intel i5,16GB,1TB HDD,NVIDIA RTX 4060,Linux,Linux 2,1.01,1044.62
+MSI,MSI_752,Gaming,"17.0""",IPS,Intel i3,4GB,1TB SSD,NVIDIA GTX 1650,macOS,macOS 6,2.75,1065.66
+MSI,MSI_359,Student,"14.7""",OLED,Intel i9,16GB,1TB SSD,Integrated,Linux,Linux 9,1.13,708.55
+Apple,Apple_997,Workstation,"14.5""",Retina,Intel i9,8GB,512GB SSD,NVIDIA RTX 3050,macOS,macOS 8,1.28,1638.81
+Acer,Acer_381,Business,"16.1""",Retina,AMD Ryzen 7,8GB,256GB SSD,Integrated,Windows,Windows 12,2.11,1096.05
+MSI,MSI_926,Workstation,"15.8""",IPS,AMD Ryzen 7,16GB,128GB SSD,NVIDIA GTX 1650,Linux,Linux 6,3.12,2013.13
+Acer,Acer_927,Ultrabook,"14.7""",Retina,Intel i5,8GB,256GB SSD,NVIDIA RTX 4060,Windows,Windows 8,1.97,1022.3
+Apple,Apple_924,Ultrabook,"14.4""",OLED,AMD Ryzen 5,16GB,512GB SSD,AMD Radeon,Linux,Linux 12,2.39,714.71
+Dell,Dell_563,Workstation,"13.7""",LED,AMD Ryzen 7,4GB,1TB HDD,NVIDIA RTX 4060,macOS,macOS 10,2.4,1373.21
+Acer,Acer_863,Ultrabook,"14.9""",LED,AMD Ryzen 5,4GB,128GB SSD,AMD Radeon,Windows,Windows 5,2.33,872.32
+Samsung,Samsung_777,Ultrabook,"15.4""",Retina,AMD Ryzen 5,16GB,128GB SSD,AMD Radeon,Windows,Windows 9,2.73,1372.92
+Samsung,Samsung_511,Workstation,"16.2""",IPS,Intel i5,16GB,1TB SSD,NVIDIA RTX 4060,Linux,Linux 3,3.36,1711.78
+HP,HP_472,Gaming,"15.0""",IPS,Intel i7,32GB,1TB HDD,NVIDIA RTX 4060,Linux,Linux 12,1.74,947.08
+Dell,Dell_267,Workstation,"15.4""",Retina,AMD Ryzen 5,8GB,1TB SSD,AMD Radeon,Windows,Windows 9,3.13,1511.28
+Acer,Acer_116,Gaming,"14.7""",IPS,Intel i7,4GB,128GB SSD,Integrated,Windows,Windows 3,1.13,1156.0
+Lenovo,Lenovo_617,Gaming,"15.6""",OLED,Intel i5,16GB,512GB SSD,NVIDIA RTX 3050,Linux,Linux 4,1.76,1174.52
+HP,HP_830,Gaming,"15.2""",Retina,AMD Ryzen 7,8GB,1TB HDD,NVIDIA GTX 1650,macOS,macOS 10,1.91,1165.77
+Asus,Asus_917,Gaming,"16.0""",Retina,Intel i5,4GB,1TB HDD,NVIDIA GTX 1650,macOS,macOS 12,2.66,1449.48
+Acer,Acer_125,Workstation,"15.5""",Retina,Intel i5,8GB,256GB SSD,NVIDIA RTX 3050,macOS,macOS 6,1.79,1618.47
+HP,HP_963,Ultrabook,"17.0""",IPS,Intel i9,32GB,256GB SSD,AMD Radeon,Linux,Linux 11,1.33,1119.86
+HP,HP_308,Ultrabook,"15.2""",OLED,AMD Ryzen 7,16GB,256GB SSD,NVIDIA RTX 4060,Linux,Linux 1,1.51,1022.9
+HP,HP_326,Gaming,"14.9""",IPS,AMD Ryzen 5,4GB,1TB HDD,AMD Radeon,Linux,Linux 5,1.95,785.72
+Apple,Apple_757,Workstation,"15.1""",Retina,AMD Ryzen 5,4GB,1TB SSD,NVIDIA RTX 4060,Windows,Windows 11,3.04,1811.02
+Acer,Acer_450,Ultrabook,"13.5""",OLED,AMD Ryzen 7,32GB,256GB SSD,Integrated,Windows,Windows 1,2.08,1122.53
+Dell,Dell_720,Student,"17.1""",IPS,Intel i9,16GB,512GB SSD,Integrated,Linux,Linux 8,2.51,1117.55
+Asus,Asus_259,Gaming,"16.8""",OLED,Intel i5,32GB,512GB SSD,NVIDIA GTX 1650,Linux,Linux 4,1.62,1114.73
+Apple,Apple_232,Student,"15.2""",Retina,Intel i5,8GB,1TB SSD,Integrated,Linux,Linux 10,2.19,586.85
+Samsung,Samsung_159,Business,"13.9""",IPS,Intel i5,8GB,1TB HDD,NVIDIA RTX 3050,Linux,Linux 9,1.16,1136.85
+HP,HP_933,Gaming,"13.8""",LED,Intel i5,32GB,128GB SSD,NVIDIA RTX 4060,Windows,Windows 12,1.32,1232.13
+Dell,Dell_223,Workstation,"15.4""",LED,Intel i5,8GB,512GB SSD,Integrated,Linux,Linux 10,3.13,1632.45
+Lenovo,Lenovo_427,Gaming,"13.6""",Retina,AMD Ryzen 7,4GB,1TB SSD,NVIDIA RTX 3050,Windows,Windows 5,2.5,1650.16
+Samsung,Samsung_235,Workstation,"13.0""",IPS,Intel i3,16GB,128GB SSD,NVIDIA GTX 1650,Windows,Windows 8,2.76,1729.53
+Acer,Acer_219,Ultrabook,"14.0""",IPS,AMD Ryzen 5,4GB,128GB SSD,NVIDIA RTX 4060,Linux,Linux 4,3.11,809.67
+Samsung,Samsung_751,Student,"13.7""",LED,Intel i3,8GB,1TB SSD,NVIDIA RTX 3050,Windows,Windows 5,1.4,681.22
+Lenovo,Lenovo_481,Ultrabook,"14.6""",LED,AMD Ryzen 5,8GB,128GB SSD,Integrated,Windows,Windows 3,2.58,767.18
+Lenovo,Lenovo_950,Workstation,"15.7""",LED,Intel i7,32GB,128GB SSD,AMD Radeon,macOS,macOS 11,3.32,1676.65
+Apple,Apple_110,Student,"14.1""",IPS,Intel i5,16GB,512GB SSD,NVIDIA RTX 4060,Linux,Linux 3,2.84,683.8
+Lenovo,Lenovo_963,Student,"13.5""",Retina,Intel i5,4GB,512GB SSD,NVIDIA RTX 4060,Windows,Windows 2,2.12,695.53
+Asus,Asus_209,Workstation,"13.9""",IPS,Intel i7,32GB,1TB SSD,NVIDIA RTX 4060,Linux,Linux 12,1.54,1620.83
+Acer,Acer_694,Ultrabook,"16.3""",LED,Intel i9,16GB,1TB HDD,NVIDIA RTX 3050,Linux,Linux 10,2.58,1244.2
+Samsung,Samsung_227,Ultrabook,"14.3""",IPS,AMD Ryzen 5,32GB,256GB SSD,NVIDIA GTX 1650,macOS,macOS 8,2.3,876.41
+Asus,Asus_667,Gaming,"17.2""",Retina,Intel i3,16GB,1TB SSD,AMD Radeon,macOS,macOS 5,2.8,1507.84
+Dell,Dell_147,Business,"16.6""",IPS,AMD Ryzen 7,32GB,1TB SSD,NVIDIA GTX 1650,Linux,Linux 4,2.99,893.1
+Dell,Dell_376,Gaming,"15.7""",LED,AMD Ryzen 7,16GB,1TB SSD,NVIDIA RTX 4060,Windows,Windows 4,2.98,1298.96
+Asus,Asus_126,Ultrabook,"15.2""",IPS,AMD Ryzen 7,32GB,256GB SSD,NVIDIA GTX 1650,macOS,macOS 1,1.99,930.87
+Samsung,Samsung_494,Gaming,"14.6""",Retina,AMD Ryzen 5,16GB,128GB SSD,NVIDIA RTX 3050,Windows,Windows 11,1.62,943.3
+Lenovo,Lenovo_953,Business,"17.3""",OLED,Intel i7,8GB,128GB SSD,NVIDIA RTX 3050,Linux,Linux 2,1.84,1019.18
+Samsung,Samsung_516,Ultrabook,"15.3""",Retina,Intel i3,4GB,1TB HDD,AMD Radeon,Windows,Windows 6,1.78,1288.61
+Acer,Acer_526,Student,"16.0""",OLED,Intel i3,4GB,512GB SSD,NVIDIA GTX 1650,Linux,Linux 11,2.88,774.89
+Samsung,Samsung_150,Ultrabook,"14.5""",OLED,Intel i3,8GB,1TB SSD,AMD Radeon,macOS,macOS 9,3.09,1280.24
+Apple,Apple_761,Business,"16.0""",OLED,Intel i7,4GB,1TB HDD,NVIDIA RTX 4060,Linux,Linux 2,2.33,1013.5
+Samsung,Samsung_787,Business,"13.2""",IPS,Intel i9,32GB,256GB SSD,NVIDIA RTX 4060,Linux,Linux 3,2.02,1019.05
+HP,HP_848,Student,"13.1""",OLED,Intel i7,4GB,128GB SSD,NVIDIA GTX 1650,Linux,Linux 4,3.2,809.79
+HP,HP_312,Workstation,"15.5""",OLED,Intel i3,16GB,128GB SSD,NVIDIA RTX 3050,macOS,macOS 1,1.32,1708.36
+MSI,MSI_275,Ultrabook,"16.0""",OLED,Intel i7,32GB,128GB SSD,NVIDIA GTX 1650,Windows,Windows 6,1.24,1047.58
+MSI,MSI_329,Student,"13.7""",IPS,Intel i9,4GB,128GB SSD,NVIDIA GTX 1650,Linux,Linux 3,2.93,676.14
+Acer,Acer_457,Workstation,"13.0""",Retina,Intel i5,16GB,128GB SSD,AMD Radeon,macOS,macOS 9,2.94,1655.25
+HP,HP_375,Business,"14.2""",Retina,Intel i7,4GB,128GB SSD,NVIDIA RTX 3050,macOS,macOS 1,1.66,803.21
+Acer,Acer_904,Student,"14.0""",LED,AMD Ryzen 7,32GB,256GB SSD,NVIDIA RTX 4060,Windows,Windows 12,3.43,506.62
+Apple,Apple_476,Student,"16.8""",LED,AMD Ryzen 7,32GB,512GB SSD,NVIDIA RTX 4060,Windows,Windows 12,2.68,936.31
+MSI,MSI_120,Ultrabook,"15.9""",OLED,Intel i5,8GB,256GB SSD,AMD Radeon,Windows,Windows 4,2.22,650.88
+Acer,Acer_683,Gaming,"13.9""",LED,Intel i7,32GB,1TB HDD,NVIDIA RTX 3050,Windows,Windows 9,1.93,1239.08
+HP,HP_274,Ultrabook,"14.3""",LED,Intel i3,4GB,512GB SSD,Integrated,macOS,macOS 7,2.08,1554.1
+Apple,Apple_338,Workstation,"13.7""",Retina,Intel i7,8GB,1TB HDD,Integrated,Linux,Linux 6,2.07,1510.77
+MSI,MSI_217,Workstation,"15.6""",OLED,Intel i5,8GB,1TB SSD,Integrated,Windows,Windows 6,1.45,1368.71
+Lenovo,Lenovo_176,Business,"16.0""",IPS,AMD Ryzen 5,16GB,1TB SSD,NVIDIA GTX 1650,Windows,Windows 2,2.32,926.21
+Acer,Acer_727,Business,"15.1""",OLED,Intel i7,8GB,1TB HDD,NVIDIA GTX 1650,Windows,Windows 12,3.45,807.49
+HP,HP_157,Student,"14.6""",OLED,Intel i7,32GB,128GB SSD,NVIDIA RTX 3050,Linux,Linux 9,2.68,487.34
+Dell,Dell_403,Ultrabook,"13.3""",Retina,Intel i9,32GB,256GB SSD,NVIDIA RTX 4060,Linux,Linux 5,1.36,1093.4
+Samsung,Samsung_630,Gaming,"17.1""",LED,Intel i5,8GB,256GB SSD,AMD Radeon,Windows,Windows 1,1.27,1096.53
+Acer,Acer_717,Workstation,"16.4""",LED,Intel i9,32GB,128GB SSD,NVIDIA RTX 4060,Windows,Windows 11,1.85,1671.04
+Samsung,Samsung_292,Ultrabook,"14.3""",IPS,Intel i7,16GB,256GB SSD,Integrated,Linux,Linux 12,1.95,1152.86
+Acer,Acer_461,Business,"13.7""",LED,Intel i5,16GB,256GB SSD,AMD Radeon,macOS,macOS 3,1.36,797.41
+Acer,Acer_167,Workstation,"15.2""",Retina,AMD Ryzen 7,32GB,256GB SSD,Integrated,macOS,macOS 7,1.94,1597.72
+HP,HP_760,Business,"14.0""",IPS,Intel i9,4GB,1TB SSD,AMD Radeon,macOS,macOS 2,2.23,1112.98
+Apple,Apple_662,Student,"13.9""",LED,Intel i3,4GB,1TB HDD,NVIDIA RTX 4060,Linux,Linux 11,3.43,607.94
+HP,HP_948,Workstation,"16.0""",LED,Intel i5,4GB,1TB SSD,AMD Radeon,macOS,macOS 3,1.97,1365.22
+Lenovo,Lenovo_886,Gaming,"13.2""",IPS,Intel i7,32GB,1TB HDD,NVIDIA GTX 1650,Linux,Linux 2,2.66,1486.77
+MSI,MSI_557,Ultrabook,"16.4""",LED,AMD Ryzen 5,8GB,512GB SSD,NVIDIA GTX 1650,Linux,Linux 8,1.48,967.64
+MSI,MSI_873,Business,"15.9""",Retina,Intel i7,4GB,1TB HDD,AMD Radeon,Windows,Windows 5,1.72,954.67
+Samsung,Samsung_175,Business,"16.0""",Retina,Intel i5,16GB,256GB SSD,AMD Radeon,Linux,Linux 10,3.33,767.49
+Apple,Apple_606,Ultrabook,"13.2""",LED,Intel i3,8GB,256GB SSD,AMD Radeon,Linux,Linux 1,2.77,794.74
+Asus,Asus_566,Ultrabook,"15.2""",OLED,AMD Ryzen 5,16GB,256GB SSD,AMD Radeon,macOS,macOS 12,1.17,686.32
+MSI,MSI_496,Gaming,"13.3""",LED,Intel i9,32GB,1TB HDD,NVIDIA RTX 3050,macOS,macOS 10,1.71,1217.88
+Acer,Acer_274,Ultrabook,"13.0""",Retina,Intel i3,16GB,512GB SSD,AMD Radeon,Linux,Linux 2,2.92,1128.67
+Apple,Apple_775,Ultrabook,"15.3""",Retina,Intel i3,16GB,1TB HDD,NVIDIA RTX 4060,Linux,Linux 11,1.87,1079.01
+Acer,Acer_563,Student,"14.9""",LED,AMD Ryzen 5,8GB,256GB SSD,Integrated,Windows,Windows 6,2.05,686.04
+Acer,Acer_952,Ultrabook,"14.2""",Retina,Intel i3,16GB,1TB SSD,AMD Radeon,Windows,Windows 10,2.79,865.19
+Asus,Asus_721,Workstation,"17.2""",Retina,Intel i3,8GB,1TB SSD,NVIDIA RTX 4060,Linux,Linux 3,3.11,1677.71
+Lenovo,Lenovo_629,Ultrabook,"13.1""",OLED,Intel i7,8GB,1TB SSD,NVIDIA RTX 4060,Linux,Linux 9,3.08,1002.19
+MSI,MSI_397,Workstation,"17.0""",Retina,AMD Ryzen 5,8GB,1TB SSD,NVIDIA GTX 1650,Linux,Linux 10,2.92,1354.65
+HP,HP_929,Gaming,"13.3""",IPS,Intel i3,4GB,128GB SSD,NVIDIA RTX 3050,Linux,Linux 9,3.43,1024.48
+Dell,Dell_498,Business,"14.5""",Retina,AMD Ryzen 7,4GB,1TB SSD,NVIDIA RTX 3050,macOS,macOS 1,1.85,840.1
+Lenovo,Lenovo_426,Business,"15.3""",OLED,Intel i9,4GB,1TB SSD,NVIDIA RTX 3050,Windows,Windows 5,1.98,652.86
